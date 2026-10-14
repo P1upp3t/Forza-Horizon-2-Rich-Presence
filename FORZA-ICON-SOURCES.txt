@@ -1,0 +1,43 @@
+FORZA STATUS ICON SOURCES
+
+Original game artwork found through Forza Wiki. Files were not redrawn.
+Current working selection; a final release has not been built.
+
+Pause retains its existing Twemoji symbol until a suitable Forza source is available.
+
+race — FH4 Road Racing Series
+https://static.wikia.nocookie.net/forzamotorsport/images/1/16/FH4_Road_Racing_Series.png/revision/latest?cb=20191026132954
+
+photo — FH4 Photographer
+https://static.wikia.nocookie.net/forzamotorsport/images/e/e0/FH4_Photographer.png/revision/latest?cb=20191026133944
+
+paint — FH4 Painter
+https://static.wikia.nocookie.net/forzamotorsport/images/5/57/FH4_Painter.png/revision/latest?cb=20191026133944
+
+upgrades — FH4 Tuner
+https://static.wikia.nocookie.net/forzamotorsport/images/5/52/FH4_Tuner.png/revision/latest?cb=20191026134320
+
+world — FH4 Explorer
+https://static.wikia.nocookie.net/forzamotorsport/images/b/b7/FH4_Explorer.png/revision/latest?cb=20191026134610
+
+garage — FH4 Car Collector
+https://static.wikia.nocookie.net/forzamotorsport/images/f/ff/FH4_Car_Collector.png/revision/latest?cb=20191026134458
+
+map — FH5 Accolades Icon Map 3 Markers
+https://static.wikia.nocookie.net/forzamotorsport/images/b/b3/FH5_Accolades_Icon_Map_3_Markers.png/revision/latest?cb=20250902040528
+
+trophy — FH5 Accolades Icon Trophy Shield
+https://static.wikia.nocookie.net/forzamotorsport/images/e/ea/FH5_Accolades_Icon_Trophy_Shield.png/revision/latest?cb=20250902040357
+
+festival — FH5 Accolades Icon FH2 Horizon Festival
+https://static.wikia.nocookie.net/forzamotorsport/images/7/7d/FH5_Accolades_Icon_FH2_Horizon_Festival.png/revision/latest?cb=20250830214648
+
+autoshow — FH6 EventSeasonal Autoshow Icon
+https://static.wikia.nocookie.net/forzamotorsport/images/1/14/FH6_EventSeasonal_Autoshow_Icon.png/revision/latest/smart/width/300/height/300?cb=20260522063317
+
+Source categories:
+https://forza.fandom.com/wiki/Category:Icons_(Horizon_Life)
+https://forza.fandom.com/wiki/Forza_Horizon_5/Accolades/Festival_Playlist
+https://forza.fandom.com/wiki/Category:Icons_by_game
+
+Local icon files and development sources are stored outside the game folder.
