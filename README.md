@@ -1,6 +1,10 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+
+
+
+<p align="center"><a href="README.md">English</a> · <a href="docs/translations/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/translations/README.zh-CN.md">简体中文</a> · <a href="docs/translations/README.hi.md">हिन्दी</a> · <a href="docs/translations/README.es.md">Español</a> · <a href="docs/translations/README.fr.md">Français</a> · <a href="docs/translations/README.ar.md">العربية</a> · <a href="docs/translations/README.bn.md">বাংলা</a> · <a href="docs/translations/README.ru.md">Русский</a></p>
 
 <p align="center">
   <img src="FH2-Presence.png" alt="FH2 Discord Presence icon" width="112" />
@@ -47,7 +51,7 @@ Activity labels stay on the small icon and its tooltip, keeping the main presenc
 
 ## Download & installation
 
-1. Download **FH2-Presence-v1.0.0-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
+1. Download **FH2-Presence-v1.1.0-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
 2. Extract the `rich-presence` folder **next to `azimuth.exe`**.
 3. Open the **Discord desktop app** and sign in.
 4. Run **FH2 Presence.exe** and choose **Start Presence** or **Launch FH2 + Presence**.
@@ -86,7 +90,7 @@ Translations are included locally. Vehicle, location and event names are preserv
 
 ## Compatibility & known limits
 
-Tested on the development PC with **FH2 1.0.0.64** and **Azimuth 0.9.7**. Other builds are not yet confirmed compatible.
+Use **v1.0.0 for Azimuth 0.9.7** or **v1.1.0 for Azimuth 0.9.9**, with **FH2 1.0.0.64**. On 0.9.9, vehicle name, class/PI, thumbnail, region, pause and open-world presence have been checked live. Racing modes still need a fresh validation on 0.9.9.
 
 - Discord updates have a **minimum 15-second send interval**, independent of the local reading rate. Image hosting and Discord caching can add delay.
 - Regions are approximate. New paint or wheel images depend on a thumbnail saved by the game.
