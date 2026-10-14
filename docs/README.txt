@@ -1,4 +1,4 @@
-FH2 DISCORD PRESENCE
+FH2 DISCORD PRESENCE v1.1.0 - AZIMUTH 0.9.9
 ====================
 A free Windows companion for Forza Horizon 2 running through Azimuth.
 
@@ -57,8 +57,10 @@ Icons, fallback logos and the cover image are loaded from external hosts.
 Translations are included locally; no translation service is used.
 
 KNOWN LIMITS
-Tested with FH2 1.0.0.64 and Azimuth 0.9.7 on the development PC. Other builds
-may use different memory layouts and are not confirmed compatible.
+v1.1.0 adds support for the Azimuth 0.9.9 per-title configuration and save paths.
+Vehicle name, class/PI, thumbnail, region, pause and open-world presence were
+checked live with FH2 1.0.0.64. Racing modes need a fresh test on 0.9.9.
+For Azimuth 0.9.7, the v1.0.0 release is also available.
 Geographic regions are approximate. A new paint or wheel appearance needs a
 thumbnail saved by the game; the companion cannot invent missing thumbnails.
 Discord changes have a minimum send interval of 15 seconds, independently of
