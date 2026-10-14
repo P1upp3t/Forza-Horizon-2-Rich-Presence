@@ -1,0 +1,123 @@
+{
+  "name": "Bug report",
+  "description": "Report an issue with FH2 Discord Presence.",
+  "title": "[Bug]: ",
+  "labels": [
+    "bug"
+  ],
+  "assignees": [
+    "P1upp3t"
+  ],
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Thanks for helping improve FH2 Discord Presence. Please search existing issues first. Never upload saves, credentials or game files."
+      }
+    },
+    {
+      "type": "input",
+      "id": "app-version",
+      "attributes": {
+        "label": "Presence version",
+        "placeholder": "1.0.0"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "game-version",
+      "attributes": {
+        "label": "Game version",
+        "placeholder": "FH2 1.0.0.64"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "azimuth-version",
+      "attributes": {
+        "label": "Azimuth version",
+        "placeholder": "0.9.7"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "windows",
+      "attributes": {
+        "label": "Windows version",
+        "placeholder": "Windows 11 x64"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "area",
+      "attributes": {
+        "label": "Affected feature",
+        "options": [
+          "Startup or installation",
+          "Discord connection",
+          "Vehicle name, class or performance index",
+          "Vehicle images or uploads",
+          "Race information",
+          "Location or activity detection",
+          "Interface or language",
+          "Other"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "reproduce",
+      "attributes": {
+        "label": "Steps to reproduce",
+        "placeholder": "1. Open...\n2. Select...\n3. Observe..."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "expected",
+      "attributes": {
+        "label": "Expected result"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "actual",
+      "attributes": {
+        "label": "Actual result",
+        "description": "Include the vehicle, class/PI or in-game activity if relevant."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "logs",
+      "attributes": {
+        "label": "Optional screenshots or log excerpt",
+        "description": "Review attachments and remove personal information. Never attach saves, credentials or the full game folder."
+      }
+    }
+  ]
+}
