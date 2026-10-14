@@ -100,7 +100,7 @@ Use **v1.0.0 for Azimuth 0.9.7** or **v1.1.0 for Azimuth 0.9.9**, with **FH2 1.0
 
 - Discord updates have a **minimum 15-second send interval**, independent of the local reading rate. Image hosting and Discord caching can add delay.
 - Regions are approximate. New paint or wheel images depend on a thumbnail saved by the game.
-- Extra Options was used during investigation and is not called by the companion. A full test session with that mod disabled is still pending.
+- [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) was used during investigation and is not called by the companion. A full test session with that mod disabled is still pending.
 - Activity artwork comes from several Forza editions. Pause currently uses a Twemoji fallback.
 
 ## Support the project
