@@ -42,7 +42,7 @@ Windows 11 x64, Microsoft Edge WebView2 e sua instalação do jogo são necessá
 
 O envio de miniaturas vem desativado. Ao ativá-lo, somente os cartões dos carros são enviados ao Uguu como PNGs públicos e temporários. Saves, logs e o banco do jogador não são enviados. O aplicativo não altera a memória ou os saves. As traduções são locais; imagens e ícones podem usar serviços externos.
 
-FH2 1.0.0.64: use v1.0.0 com Azimuth 0.9.7, ou v1.1.0 com Azimuth 0.9.9. Na 0.9.9, foram confirmados carro, classe/índice, miniatura, região, pausa e mundo aberto; as corridas ainda precisam de nova validação. O Discord tem intervalo mínimo de 15 segundos entre envios; o cache pode atrasar imagens. As regiões são aproximadas. A validação completa com Extra Options desativado ainda está pendente.
+FH2 1.0.0.64: use v1.0.0 com Azimuth 0.9.7, ou v1.1.0 com Azimuth 0.9.9. Na 0.9.9, foram confirmados carro, classe/índice, miniatura, região, pausa e mundo aberto; as corridas ainda precisam de nova validação. O Discord tem intervalo mínimo de 15 segundos entre envios; o cache pode atrasar imagens. As regiões são aproximadas. A validação completa com [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) desativado ainda está pendente.
 
 ## Atualização, problemas e apoio
 
