@@ -1,8 +1,12 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">⬇ Скачать бесплатно для Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ Скачать бесплатно для Windows x64</a></h2>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-<p align="center"><img src="FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+
+
+<p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+
+<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
@@ -34,7 +38,7 @@
 
 Загрузка изображений по умолчанию отключена. Если её включить, только карточки автомобилей отправляются на Uguu как общедоступные временные PNG. Сохранения, журналы и база игрока не отправляются. Программа не изменяет память игры или сохранения. Переводы доступны локально; изображения и значки могут загружаться с внешних сервисов.
 
-Проверено на компьютере разработчика с FH2 1.0.0.64 и Azimuth 0.9.7. Совместимость других версий не подтверждена. Минимальный интервал отправки в Discord — 15 секунд; кеш может задерживать изображения. Регионы определяются приблизительно. Полная проверка без Extra Options ещё не выполнена.
+Для FH2 1.0.0.64: используйте v1.0.0 с Azimuth 0.9.7 или v1.1.0 с Azimuth 0.9.9. На 0.9.9 подтверждены автомобиль, класс/индекс, миниатюра, регион, пауза и открытый мир; гонки ещё требуют повторной проверки. Минимальный интервал отправки в Discord — 15 секунд; кеш может задерживать изображения. Регионы определяются приблизительно. Полная проверка без Extra Options ещё не выполнена.
 
 ## Обновления, ошибки и поддержка
 
@@ -44,4 +48,4 @@
 
 Пожертвование не открывает дополнительные функции и не включает игру. Это бесплатная программа с закрытым кодом. Условия — в LICENSE.txt; сторонние компоненты сохраняют свои права. Независимый проект, не связанный с правообладателями Forza, Discord или Azimuth.
 
-[LICENSE.txt](LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
