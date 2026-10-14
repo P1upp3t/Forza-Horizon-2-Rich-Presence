@@ -1,8 +1,12 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">⬇ تنزيل مجاني لنظام Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ تنزيل مجاني لنظام Windows x64</a></h2>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-<p align="center"><img src="FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+
+
+<p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+
+<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 <div dir="rtl">
 
@@ -36,7 +40,7 @@
 
 رفع الصور معطّل افتراضيًا. عند تفعيله، تُرفع بطاقات السيارات فقط إلى Uguu بصيغة PNG عامة ومؤقتة. لا تُرفع ملفات الحفظ أو السجلات أو قاعدة بيانات اللاعب. لا يغيّر التطبيق ذاكرة اللعبة أو ملفات الحفظ. الترجمات محلية؛ وقد تستخدم الصور والأيقونات خدمات خارجية.
 
-اختُبر على حاسوب التطوير مع FH2 1.0.0.64 وAzimuth 0.9.7. لم يُؤكد توافق الإصدارات الأخرى. الحد الأدنى للفاصل بين الإرسال إلى Discord هو 15 ثانية، وقد يؤخر التخزين المؤقت الصور. تحديد المناطق تقريبي. ما زال الاختبار الكامل مع تعطيل Extra Options معلقًا.
+مع FH2 1.0.0.64: استخدم v1.0.0 مع Azimuth 0.9.7 أو v1.1.0 مع Azimuth 0.9.9. تأكدت قراءة السيارة والفئة/المؤشر والصورة والمنطقة والإيقاف المؤقت والعالم المفتوح على 0.9.9؛ وما زالت السباقات تحتاج إلى إعادة اختبار. الحد الأدنى للفاصل بين الإرسال إلى Discord هو 15 ثانية، وقد يؤخر التخزين المؤقت الصور. تحديد المناطق تقريبي. ما زال الاختبار الكامل مع تعطيل Extra Options معلقًا.
 
 ## التحديث والمشكلات والدعم
 
@@ -46,6 +50,6 @@
 
 لا يفتح التبرع ميزات إضافية ولا يتضمن اللعبة. التطبيق مجاني وشفرتُه خاصة. راجع LICENSE.txt للشروط؛ وتحتفظ مكونات الأطراف الأخرى بحقوقها. مشروع مستقل وغير تابع لأصحاب حقوق Forza أو Discord أو Azimuth.
 
-[LICENSE.txt](LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
 
 </div>
