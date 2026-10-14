@@ -29,12 +29,16 @@
 
 ## التثبيت
 
+[**Azimuth — Almost There Games**](https://almost-there-games.itch.io/azimuth)
+
+**اللعبة والترخيص:** يوزّع هذا المشروع تطبيق Rich Presence فقط. لا نوفر Forza Horizon 2 أو إضافاتها أو ملفاتها أو مفاتيح ترخيصها. على كل مستخدم الحصول على نسخته القانونية والالتزام بالشروط المطبقة. Azimuth مشروع منفصل. التبرعات تدعم هذا التطبيق ولا تشتري اللعبة أو تمنح ترخيصًا لها.
+
 1. نزّل ملف ZIP من الرابط في الأعلى واستخرج مجلد rich-presence بجوار azimuth.exe.
 2. افتح تطبيق Discord لسطح المكتب وسجّل الدخول.
 3. شغّل FH2 Presence.exe واختر Start Presence أو Launch FH2 + Presence.
 4. لنشر بطاقات مخصصة، فعّل Automatic Thumbnails من Preferences.
 
-يتطلب Windows 10/11 x64 وMicrosoft Edge WebView2 ونسختك المثبتة من اللعبة. لا تحتاج إلى Python أو كلمة مرور Discord أو رمزه المميز.
+يتطلب Windows 11 x64 وMicrosoft Edge WebView2 ونسختك المثبتة من اللعبة. لا تحتاج إلى Python أو كلمة مرور Discord أو رمزه المميز.
 
 ## الخصوصية والتوافق
 

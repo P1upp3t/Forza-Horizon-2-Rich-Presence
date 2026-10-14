@@ -27,12 +27,16 @@ Application Windows gratuite qui affiche sur Discord votre activité dans Forza 
 
 ## Installation
 
+[**Azimuth — Almost There Games**](https://almost-there-games.itch.io/azimuth)
+
+**Jeu et licence :** ce projet distribue uniquement l’application de Rich Presence. Nous ne fournissons ni Forza Horizon 2, ni DLC, ni fichiers du jeu, ni clés de licence. Chaque utilisateur doit obtenir sa propre copie légitime et respecter les conditions applicables. Azimuth est un projet distinct. Les dons soutiennent cette application et ne constituent ni un achat du jeu ni une licence de celui-ci.
+
 1. Téléchargez le ZIP avec le lien en haut, puis extrayez rich-presence à côté de azimuth.exe.
 2. Ouvrez Discord pour ordinateur et connectez-vous.
 3. Lancez FH2 Presence.exe, puis choisissez Start Presence ou Launch FH2 + Presence.
 4. Pour publier des cartes personnalisées, activez Automatic Thumbnails dans Preferences.
 
-Nécessite Windows 10/11 x64, Microsoft Edge WebView2 et votre installation du jeu. Python, mot de passe et jeton Discord ne sont pas nécessaires.
+Nécessite Windows 11 x64, Microsoft Edge WebView2 et votre installation du jeu. Python, mot de passe et jeton Discord ne sont pas nécessaires.
 
 ## Confidentialité et compatibilité
 

@@ -27,12 +27,16 @@ Aplicativo gratuito para Windows que mostra informações do Forza Horizon 2 de 
 
 ## Instalação
 
+[**Azimuth — Almost There Games**](https://almost-there-games.itch.io/azimuth)
+
+**Jogo e licença:** este projeto distribui somente o aplicativo de Rich Presence. Não fornecemos Forza Horizon 2, DLCs, arquivos do jogo nem chaves de licença. Cada usuário é responsável por obter sua própria cópia legítima e cumprir os termos aplicáveis. O Azimuth é um projeto separado. As doações apoiam este aplicativo e não compram o jogo nem concedem licença sobre ele.
+
 1. Baixe o ZIP pelo link no topo e extraia a pasta rich-presence ao lado de azimuth.exe.
 2. Abra o Discord para desktop e entre na sua conta.
 3. Execute FH2 Presence.exe. Escolha Start Presence ou Launch FH2 + Presence.
 4. Para enviar miniaturas personalizadas, ative Automatic Thumbnails em Preferences.
 
-Windows 10/11 x64, Microsoft Edge WebView2 e sua instalação do jogo são necessários. Não é preciso instalar Python nem fornecer senha ou token do Discord.
+Windows 11 x64, Microsoft Edge WebView2 e sua instalação do jogo são necessários. Não é preciso instalar Python nem fornecer senha ou token do Discord.
 
 ## Privacidade e compatibilidade
 

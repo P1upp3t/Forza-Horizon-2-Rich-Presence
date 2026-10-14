@@ -27,12 +27,16 @@
 
 ## ইনস্টলেশন
 
+[**Azimuth — Almost There Games**](https://almost-there-games.itch.io/azimuth)
+
+**গেম ও লাইসেন্স:** এই প্রকল্প শুধু Rich Presence অ্যাপ সরবরাহ করে। আমরা Forza Horizon 2, DLC, গেমের ফাইল বা লাইসেন্স কী দিই না। প্রত্যেক ব্যবহারকারীকে নিজের বৈধ কপি সংগ্রহ করতে হবে এবং প্রযোজ্য শর্ত মানতে হবে। Azimuth আলাদা প্রকল্প। অনুদান এই অ্যাপকে সহায়তা করে; এতে গেম বা গেমের লাইসেন্স পাওয়া যায় না।
+
 1. ওপরের লিংক থেকে ZIP ডাউনলোড করে rich-presence ফোল্ডারটি azimuth.exe-এর পাশে রাখুন।
 2. Discord-এর ডেস্কটপ অ্যাপ খুলে সাইন ইন করুন।
 3. FH2 Presence.exe চালিয়ে Start Presence অথবা Launch FH2 + Presence নির্বাচন করুন।
 4. নিজস্ব গাড়ির কার্ডের জন্য Preferences থেকে Automatic Thumbnails চালু করুন।
 
-Windows 10/11 x64, Microsoft Edge WebView2 এবং আপনার নিজের গেম ইনস্টলেশন প্রয়োজন। Python বা Discord-এর পাসওয়ার্ড ও টোকেন দরকার নেই।
+Windows 11 x64, Microsoft Edge WebView2 এবং আপনার নিজের গেম ইনস্টলেশন প্রয়োজন। Python বা Discord-এর পাসওয়ার্ড ও টোকেন দরকার নেই।
 
 ## গোপনীয়তা ও সামঞ্জস্য
 
