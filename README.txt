@@ -29,7 +29,8 @@ INSTALLATION
        rich-presence/
            FH2 Presence.exe
            README.txt
-           docs/
+           LICENSE.txt
+           THIRD-PARTY-NOTICES.txt
 
 3. Open the Discord desktop application and sign in.
 4. Open FH2 Presence.exe. Choose Start Presence, or Launch FH2 + Presence.
