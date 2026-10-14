@@ -1,0 +1,47 @@
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">⬇ Windows x64-এর জন্য বিনামূল্যে ডাউনলোড</a></h2>
+
+<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+
+<p align="center"><img src="FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+
+# Forza Horizon 2 — Discord Rich Presence
+
+আপনার গাড়ি, আপনার রেস আর আপনার Horizon যাত্রা — Discord-এ।
+
+<p align="center"><a href="https://ko-fi.com/puppetzim"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi-তে সহায়তা করুন" height="52" /></a></p>
+
+এই বিনামূল্যের Windows অ্যাপটি Azimuth দিয়ে চালানো Xbox One-এর Forza Horizon 2-এর কার্যকলাপ Discord-এ দেখায়। সব সুবিধা বিনামূল্যে। অনুদান সম্পূর্ণ ঐচ্ছিক এবং সোর্স কোড ব্যক্তিগত রাখা হয়েছে।
+
+## সুবিধা
+
+- গাড়ির ছবি, নাম, বছর এবং ছবির মধ্যেই ক্লাস ও পারফরম্যান্স ইনডেক্স দেখানো কার্ড।
+- প্রতিবার গাড়ি নির্বাচন বা আবার নির্বাচন করলে কার্ড নতুন করে তৈরি হয়। রং ও চাকার ছবি গেমের সংরক্ষিত থাম্বনেইলের ওপর নির্ভর করে।
+- আনুমানিক অঞ্চল, রেসে অবস্থান, ল্যাপ এবং দশমিকের পর দুই ঘরসহ স্প্রিন্টের অগ্রগতি।
+- ম্যাপ, ফটো মোড, বিরতি, ফেস্টিভ্যাল, গ্যারেজ, আপগ্রেড, রং ও Autoshow-এর আইকন।
+- অ্যাপ থেকে সরাসরি azimuth.exe খুলুন: Launch FH2 + Presence লঞ্চার ও প্রেজেন্স একসঙ্গে চালু করে।
+- Horizon-অনুপ্রাণিত ইন্টারফেস, নয়টি ভাষা এবং স্থানীয় তথ্য পড়ার জন্য 1, 2 বা 4 Hz।
+
+## ইনস্টলেশন
+
+1. ওপরের লিংক থেকে ZIP ডাউনলোড করে rich-presence ফোল্ডারটি azimuth.exe-এর পাশে রাখুন।
+2. Discord-এর ডেস্কটপ অ্যাপ খুলে সাইন ইন করুন।
+3. FH2 Presence.exe চালিয়ে Start Presence অথবা Launch FH2 + Presence নির্বাচন করুন।
+4. নিজস্ব গাড়ির কার্ডের জন্য Preferences থেকে Automatic Thumbnails চালু করুন।
+
+Windows 10/11 x64, Microsoft Edge WebView2 এবং আপনার নিজের গেম ইনস্টলেশন প্রয়োজন। Python বা Discord-এর পাসওয়ার্ড ও টোকেন দরকার নেই।
+
+## গোপনীয়তা ও সামঞ্জস্য
+
+ছবি আপলোড ডিফল্টভাবে বন্ধ থাকে। চালু করলে শুধু গাড়ির কার্ড Uguu-তে সর্বজনীন, অস্থায়ী PNG হিসেবে পাঠানো হয়। সেভ, লগ ও খেলোয়াড়ের ডেটাবেস আপলোড হয় না। অ্যাপ গেমের মেমরি বা সেভ পরিবর্তন করে না। অনুবাদ স্থানীয়ভাবে থাকে; ছবি ও আইকনের জন্য বাইরের পরিষেবা ব্যবহার হতে পারে।
+
+ডেভেলপমেন্ট কম্পিউটারে FH2 1.0.0.64 ও Azimuth 0.9.7 দিয়ে পরীক্ষা করা হয়েছে। অন্য সংস্করণ নিশ্চিত নয়। Discord-এ পাঠানোর সর্বনিম্ন ব্যবধান 15 সেকেন্ড; ক্যাশের কারণে ছবি দেরিতে আসতে পারে। অঞ্চল আনুমানিক। Extra Options বন্ধ করে সম্পূর্ণ পরীক্ষা এখনো বাকি।
+
+## আপডেট, সমস্যা ও সহায়তা
+
+আপডেটের আগে প্রেজেন্স থামিয়ে অ্যাপ বন্ধ করুন। পছন্দের সেটিং রাখতে config.json ও runtime/ সংরক্ষণ করুন।
+
+[**সমস্যা জানান**](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues) · [**Ko-fi-তে সহায়তা করুন**](https://ko-fi.com/puppetzim)
+
+অনুদানে বাড়তি সুবিধা বা গেম পাওয়া যায় না। এটি ব্যক্তিগত সোর্স কোডসহ বিনামূল্যের সফটওয়্যার। শর্ত জানতে LICENSE.txt দেখুন। তৃতীয় পক্ষের উপকরণের অধিকার সংশ্লিষ্ট মালিকদের। এটি Forza, Discord বা Azimuth-এর অধিকারধারকদের সঙ্গে যুক্ত নয় এমন স্বাধীন প্রকল্প।
+
+[LICENSE.txt](LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](FORZA-ICON-SOURCES.txt)

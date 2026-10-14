@@ -1,3 +1,7 @@
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
+
+<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+
 <p align="center">
   <img src="FH2-Presence.png" alt="FH2 Discord Presence icon" width="112" />
 </p>
@@ -10,12 +14,12 @@
 
 <p align="center">
   <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest"><b>Download for Windows</b></a> ·
-  <a href="https://ko-fi.com/puppet91192">Support on Ko-fi</a> ·
+  <a href="https://ko-fi.com/puppetzim">Support on Ko-fi</a> ·
   <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues">Report a bug</a>
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/puppet91192">
+  <a href="https://ko-fi.com/puppetzim">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support FH2 Discord Presence on Ko-fi" height="52" />
   </a>
   <br />
@@ -36,6 +40,7 @@ A **free Windows companion** for the Xbox One version of **Forza Horizon 2 runni
 | Racing | Position, total drivers, circuit laps or sprint progress with two decimal places, plus event information when available. |
 | Activities | Icons for the world map, photo mode, pause, Festival, garage, upgrades, painting and Autoshow. |
 | Race results | A temporary victory or race-completed status after finishing. |
+| Launch Azimuth | Open `azimuth.exe` directly from the app with **Launch FH2 + Presence**, starting the launcher and Presence together. |
 | Desktop interface | A Horizon-inspired control panel, live preview and adjustable local reading rate: 1, 2 or 4 Hz. |
 
 Activity labels stay on the small icon and its tooltip, keeping the main presence text focused on your car and session.
@@ -90,9 +95,9 @@ Tested on the development PC with **FH2 1.0.0.64** and **Azimuth 0.9.7**. Other 
 
 ## Support the project
 
-[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/puppet91192)
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/puppetzim)
 
-If you enjoy the app, you can [leave an optional donation on Ko-fi](https://ko-fi.com/puppet91192). Your support helps with maintenance, compatibility work and bug fixes.
+If you enjoy the app, you can [leave an optional donation on Ko-fi](https://ko-fi.com/puppetzim). Your support helps with maintenance, compatibility work and bug fixes.
 
 **Donating is never required to download the app or use a feature.** Donations do not include a copy of the game or guarantee compatibility with an untested build.
 

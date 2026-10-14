@@ -7,6 +7,7 @@ interface inspired by the Horizon menus. Donations are optional: all features
 remain free.
 
 FEATURES
+- Launch azimuth.exe directly from the app with Launch FH2 + Presence.
 - Current vehicle, model year and manufacturer.
 - Vehicle thumbnail with its class and performance index drawn on the image.
 - Card regeneration when selecting a car, including reselecting the same car.
@@ -80,7 +81,7 @@ share saves, credentials or your complete game installation.
 SUPPORT
 The program is free. Optional donations support continued development and do
 not unlock features or include the game.
-Support the project: https://ko-fi.com/puppet91192
+Support the project: https://ko-fi.com/puppetzim
 Official downloads: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases
 
 CREDITS
