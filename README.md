@@ -51,6 +51,12 @@ Activity labels stay on the small icon and its tooltip, keeping the main presenc
 
 ## Download & installation
 
+### Before you start
+
+Get Azimuth from [**Almost There Games on itch.io**](https://almost-there-games.itch.io/azimuth). Azimuth is a separate project with its own requirements and terms.
+
+**This project distributes only the Rich Presence companion.** We do not provide Forza Horizon 2, DLCs, game files or license keys. You must obtain your own legitimate game copy and comply with the applicable license terms. Donations support this companion; they do not purchase the game, grant a game license or fund access to game files.
+
 1. Download **FH2-Presence-v1.1.0-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
 2. Extract the `rich-presence` folder **next to `azimuth.exe`**.
 3. Open the **Discord desktop app** and sign in.
@@ -68,7 +74,7 @@ Your game folder/
     └── ...
 ```
 
-**Requirements:** Windows 10/11 x64, Microsoft Edge WebView2 Runtime, Discord desktop and your own game installation. **Python is not required.** The program does not ask for your Discord password, bot token or client secret.
+**Requirements:** Windows 11 x64, Microsoft Edge WebView2 Runtime, Discord desktop and your own game installation. **Python is not required.** The program does not ask for your Discord password, bot token or client secret.
 
 ### Updating
 
