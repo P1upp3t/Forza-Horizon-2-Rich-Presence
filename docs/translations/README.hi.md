@@ -1,8 +1,12 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">⬇ Windows x64 के लिए मुफ़्त डाउनलोड</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ Windows x64 के लिए मुफ़्त डाउनलोड</a></h2>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-<p align="center"><img src="FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+
+
+<p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
+
+<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
@@ -34,7 +38,7 @@ Windows 10/11 x64, Microsoft Edge WebView2 और आपका अपना ग�
 
 तस्वीरें अपलोड करना डिफ़ॉल्ट रूप से बंद है। चालू करने पर केवल वाहन कार्ड Uguu पर सार्वजनिक, अस्थायी PNG के रूप में भेजे जाते हैं। सेव, लॉग और खिलाड़ी का डेटाबेस अपलोड नहीं होते। ऐप गेम की मेमोरी या सेव नहीं बदलता। अनुवाद स्थानीय हैं; तस्वीरों और आइकन के लिए बाहरी सेवाएँ इस्तेमाल हो सकती हैं।
 
-डेवलपमेंट PC पर FH2 1.0.0.64 और Azimuth 0.9.7 के साथ परीक्षण हुआ है। अन्य संस्करणों की पुष्टि नहीं हुई। Discord में भेजने का न्यूनतम अंतराल 15 सेकंड है; कैश से तस्वीरों में देरी हो सकती है। क्षेत्र अनुमानित हैं। Extra Options बंद करके पूरा परीक्षण अभी बाकी है।
+FH2 1.0.0.64 के लिए: Azimuth 0.9.7 के साथ v1.0.0 और Azimuth 0.9.9 के साथ v1.1.0 चुनें। 0.9.9 पर कार, क्लास/इंडेक्स, थंबनेल, क्षेत्र, पॉज़ और ओपन वर्ल्ड की पुष्टि हुई है; रेस का दोबारा परीक्षण बाकी है। Discord में भेजने का न्यूनतम अंतराल 15 सेकंड है; कैश से तस्वीरों में देरी हो सकती है। क्षेत्र अनुमानित हैं। Extra Options बंद करके पूरा परीक्षण अभी बाकी है।
 
 ## अपडेट, समस्याएँ और सहयोग
 
@@ -44,4 +48,4 @@ Windows 10/11 x64, Microsoft Edge WebView2 और आपका अपना ग�
 
 दान करने से कोई सुविधा अनलॉक नहीं होती और गेम नहीं मिलता। यह निजी सोर्स कोड वाला मुफ़्त सॉफ़्टवेयर है। शर्तों के लिए LICENSE.txt देखें। थर्ड-पार्टी सामग्री के अधिकार उसके मालिकों के पास हैं। यह Forza, Discord या Azimuth के अधिकारधारकों से असंबद्ध स्वतंत्र प्रोजेक्ट है।
 
-[LICENSE.txt](LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
