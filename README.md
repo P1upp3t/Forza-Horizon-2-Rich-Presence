@@ -75,7 +75,7 @@ FH2 gameplay supplied by Puppet, followed by the Discord activity with profile d
 
 ![Discord activity, profile details hidden](docs/images/FH2-Discord-Activity-Latest-Redacted.png)
 
-![BMW Z4 in FH2](docs/images/FH2-Gameplay-BMW-Z4-Lossless.png)
+![Discord compact profile — private details hidden](docs/images/FH2-Discord-Compact-Latest-Redacted.png)
 
 ## Features
 
