@@ -69,6 +69,10 @@ The current panel shows the session timer, delivery status and tray controls. Pr
 
 [View profiles, timer, tray and history settings](docs/images/FH2-Presence-v1.3.1-Preferences.png)
 
+![Discord activity with profile details hidden](docs/images/FH2-Discord-Activity-Redacted.png)
+
+![FH2 gameplay](docs/images/FH2-Gameplay-BMW-Z4.png)
+
 ## Features
 
 | Feature | What appears on Discord |
