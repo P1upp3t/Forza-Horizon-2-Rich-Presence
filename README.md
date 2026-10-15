@@ -42,6 +42,10 @@ When reporting a problem, include your game and Azimuth versions, what happened 
 
 All features and downloads are free. Optional support helps fund maintenance and development. This repository hosts downloads, documentation and issue tracking; **source code remains private**.
 
-[Usage terms](docs/LICENSE.txt) · [Third-party notices](docs/THIRD-PARTY-NOTICES.txt) · [Artwork sources](docs/FORZA-ICON-SOURCES.txt). [Extra Options by RokkuDayo](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) helped during investigation.
+[Usage terms](docs/LICENSE.txt) · [Third-party notices](docs/THIRD-PARTY-NOTICES.txt) · [Artwork sources](docs/FORZA-ICON-SOURCES.txt).
+
+## Acknowledgements
+
+Thank you to **RokkuDayo**, creator of [Forza Horizon 2 Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions), for a tool that helped me investigate how the game works.
 
 An independent fan project by Puppet / P1upp3t, not affiliated with Microsoft, Xbox, Playground Games, Turn 10, Discord or Azimuth. No game, DLC, game files or license keys are included; donations do not grant a game license.
