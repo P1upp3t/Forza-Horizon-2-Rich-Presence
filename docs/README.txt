@@ -1,23 +1,21 @@
-FH2 DISCORD PRESENCE v1.3.0
+FH2 DISCORD PRESENCE v1.3.1
 
-FH2 Discord Presence v1.3.0 — Azimuth 0.9.9
+FH2 Discord Presence v1.3.1 — Azimuth 0.9.9
 
-You can now keep the app in the Windows tray while you play. Open the panel,
-stop Presence or quit from the tray menu. Closing the panel keeps it running
-when Minimize to tray is enabled. Use Exit app to shut it down completely.
+Compact mode keeps the car preview, connection status and main controls in
+a smaller window. Use Full view to return to the complete panel.
 
-Presence profiles let you switch between the full display, no location, or
-just the game. You can also save your own privacy and timer settings. The
-session timer can appear in Discord or be hidden if you prefer.
+After leaving painting or upgrades, the panel can tell you when no newer
+saved car thumbnail has appeared. If you changed the car's appearance, try
+reselecting it so the game saves a fresh image. The app still depends on the
+game's saved thumbnail and Discord's image cache.
 
-The preview separates the next update from the last one Discord accepted,
-so it's easier to understand why a change hasn't appeared yet. Acceptance
-confirms the activity payload; Discord's image cache can still delay pictures.
+With local history enabled, closing Azimuth shows a short recap of the
+recorded session time and cars used. Stopping Presence manually doesn't
+mark the game session as finished. History remains optional and local.
 
-First-time setup checks your Azimuth folder and Discord before you start.
-There's also an optional local history of the cars you've used and the time
-recorded in each session. It's off by default, stays on your PC and can be
-deleted from the panel. Up to 50 sessions are kept.
+This version includes all v1.3.0 additions: the Windows tray, Presence
+profiles, session timer, delivery preview, setup checks and local history.
 
 INSTALLING OR UPDATING
 Windows 11 x64, Microsoft Edge WebView2 Runtime and Discord desktop are

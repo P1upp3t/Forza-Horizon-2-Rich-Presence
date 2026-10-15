@@ -1,6 +1,6 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">⬇ Télécharger gratuitement pour Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.1/FH2-Presence-v1.3.1-Windows-x64.zip">⬇ Télécharger gratuitement pour Windows x64</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">v1.3.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.1/FH2-Presence-v1.3.1-Windows-x64.zip">v1.3.1</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -42,7 +42,7 @@ Nécessite Windows 11 x64, Microsoft Edge WebView2 et votre installation du jeu.
 
 L’envoi des images est désactivé par défaut. Si vous l’activez, seules les cartes des véhicules sont envoyées à Uguu sous forme de PNG publics et temporaires. Les sauvegardes, journaux et base du joueur ne sont pas envoyés. L’application ne modifie ni la mémoire ni les sauvegardes. Les traductions sont locales ; les images et icônes peuvent utiliser des services externes.
 
-FH2 1.0.0.64 : utilisez v1.0.0 avec Azimuth 0.9.7 ou v1.3.0 avec Azimuth 0.9.9. Avec 0.9.9, le véhicule, la classe/l’indice, la vignette, la région, la pause et le monde ouvert sont confirmés ; les courses restent à revérifier. Discord impose un intervalle minimum de 15 secondes entre les envois ; son cache peut retarder les images. Les régions sont approximatives. Une validation complète sans [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) reste à effectuer.
+FH2 1.0.0.64 : utilisez v1.0.0 avec Azimuth 0.9.7 ou v1.3.1 avec Azimuth 0.9.9. Avec 0.9.9, le véhicule, la classe/l’indice, la vignette, la région, la pause et le monde ouvert sont confirmés ; les courses restent à revérifier. Discord impose un intervalle minimum de 15 secondes entre les envois ; son cache peut retarder les images. Les régions sont approximatives. Une validation complète sans [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) reste à effectuer.
 
 ## Mises à jour, problèmes et soutien
 

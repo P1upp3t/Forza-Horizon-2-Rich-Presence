@@ -1,7 +1,7 @@
 <p align="center"><a href="https://puppetzim.itch.io/fh2-discord-presence"><b>View on itch.io</b></a> · <a href="https://ko-fi.com/puppetzim"><b>Support on Ko-fi</b></a></p>
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.1/FH2-Presence-v1.3.1-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">v1.3.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.1/FH2-Presence-v1.3.1-Windows-x64.zip">v1.3.1</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -34,6 +34,12 @@
 A **free Windows companion** for the Xbox One version of **Forza Horizon 2 running through Azimuth**. Share your current vehicle, location, race progress and in-game activities through Discord Rich Presence.
 
 **All features are free. Donations are optional.** This repository hosts official downloads, documentation and issue tracking. The source code is private.
+
+## New in v1.3.1
+
+Compact mode keeps the preview and main controls in a smaller window. After painting or upgrades, the panel warns when no newer saved thumbnail has appeared; if the appearance changed, try reselecting the car. With local history enabled, closing Azimuth shows the recorded session time and cars used.
+
+Includes all v1.3.0 features below. [Read the release notes](CHANGELOG-v1.3.1.txt).
 
 ## New in v1.3.0
 
@@ -76,7 +82,7 @@ Get Azimuth from [**Almost There Games on itch.io**](https://almost-there-games.
 
 **This project distributes only the Rich Presence companion.** We do not provide Forza Horizon 2, DLCs, game files or license keys. You must obtain your own legitimate game copy and comply with the applicable license terms. Donations support this companion; they do not purchase the game, grant a game license or fund access to game files.
 
-1. Download **FH2-Presence-v1.3.0-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
+1. Download **FH2-Presence-v1.3.1-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
 2. Extract the `rich-presence` folder **next to `azimuth.exe`**.
 3. Open the **Discord desktop app** and sign in.
 4. Run **FH2 Presence.exe** and choose **Start Presence** or **Launch FH2 + Presence**.
@@ -97,7 +103,7 @@ Your game folder/
 
 ### Updating
 
-Stop Presence and close the interface before replacing the executable. Keep `config.json` and `runtime/` to preserve your preferences and image cache. Both are created locally on first use.
+Stop Presence and choose **Exit app** before replacing the executable; closing the window can keep the app in the tray. Keep `config.json` and `runtime/` to preserve your preferences and image cache. Both are created locally on first use.
 
 ## Languages
 
@@ -115,7 +121,7 @@ Translations are included locally. Vehicle, location and event names are preserv
 
 ## Compatibility & known limits
 
-Use **v1.0.0 for Azimuth 0.9.7** or **v1.3.0 for Azimuth 0.9.9**, with **FH2 1.0.0.64**. On 0.9.9, vehicle name, class/PI, thumbnail, region, pause and open-world presence have been checked live. Racing modes still need a fresh validation on 0.9.9.
+Use **v1.0.0 for Azimuth 0.9.7** or **v1.3.1 for Azimuth 0.9.9**, with **FH2 1.0.0.64**. On 0.9.9, vehicle name, class/PI, thumbnail, region, pause and open-world presence have been checked live. Racing modes still need a fresh validation on 0.9.9.
 
 - Discord updates have a **minimum 15-second send interval**, independent of the local reading rate. Image hosting and Discord caching can add delay.
 - Regions are approximate. New paint or wheel images depend on a thumbnail saved by the game.
@@ -143,3 +149,4 @@ Third-party software and artwork retain their own licenses and rights. See [THIR
 [Forza Horizon 2 Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) helped during investigation. This project does not distribute that mod, the game or save files.
 
 An independent fan project by **Puppet / P1upp3t**. Not affiliated with Microsoft, Xbox, Playground Games, Turn 10, Discord or Azimuth.
+
