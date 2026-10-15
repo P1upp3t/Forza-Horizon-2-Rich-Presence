@@ -1,93 +1,48 @@
-FH2 DISCORD PRESENCE v1.1.0 - AZIMUTH 0.9.9
-====================
-A free Windows companion for Forza Horizon 2 running through Azimuth.
+FH2 DISCORD PRESENCE v1.3.0
 
-Show your current car, location and race progress on Discord, with a desktop
-interface inspired by the Horizon menus. Donations are optional: all features
-remain free.
+FH2 Discord Presence v1.3.0 — Azimuth 0.9.9
 
-FEATURES
-- Launch azimuth.exe directly from the app with Launch FH2 + Presence.
-- Current vehicle, model year and manufacturer.
-- Vehicle thumbnail with its class and performance index drawn on the image.
-- Card regeneration when selecting a car, including reselecting the same car.
-- Saved paint and wheel appearance when the game provides an updated thumbnail.
-- Open-world regions, map, pause, photo mode and Festival activity icons.
-- Garage, upgrades, painting and Autoshow activity detection.
-- Race position, laps, sprint progress with two decimal places and finish state.
-- Event and championship information when available.
-- English by default, plus Brazilian Portuguese, Simplified Chinese, Hindi,
-  Spanish, French, Arabic, Bengali and Russian. Optional Windows language choice.
-- Adjustable local reading rate: 1, 2 or 4 updates per second.
+You can now keep the app in the Windows tray while you play. Open the panel,
+stop Presence or quit from the tray menu. Closing the panel keeps it running
+when Minimize to tray is enabled. Use Exit app to shut it down completely.
 
-INSTALLATION
-1. Download the Windows release ZIP from this repository's Releases page.
-2. Extract the rich-presence folder next to azimuth.exe. The layout must be:
+Presence profiles let you switch between the full display, no location, or
+just the game. You can also save your own privacy and timer settings. The
+session timer can appear in Discord or be hidden if you prefer.
 
-   Your game folder/
-       azimuth.exe
-       data/
-       rich-presence/
-           FH2 Presence.exe
-           README.txt
-           LICENSE.txt
-           THIRD-PARTY-NOTICES.txt
+The preview separates the next update from the last one Discord accepted,
+so it's easier to understand why a change hasn't appeared yet. Acceptance
+confirms the activity payload; Discord's image cache can still delay pictures.
 
-3. Open the Discord desktop application and sign in.
-4. Open FH2 Presence.exe. Choose Start Presence, or Launch FH2 + Presence.
-5. If you want custom car cards, enable Automatic Thumbnails in Preferences.
+First-time setup checks your Azimuth folder and Discord before you start.
+There's also an optional local history of the cars you've used and the time
+recorded in each session. It's off by default, stays on your PC and can be
+deleted from the panel. Up to 50 sessions are kept.
 
-Python is not required for the executable. Windows 10/11 x64 and Microsoft
-Edge WebView2 Runtime are required for the desktop interface.
-No Discord password, bot token or client secret is needed by this program.
+INSTALLING OR UPDATING
+Windows 11 x64, Microsoft Edge WebView2 Runtime and Discord desktop are
+required. Python is not required. Extract rich-presence next to azimuth.exe,
+open Discord, then run FH2 Presence.exe. You can choose another Azimuth
+folder during setup. Stop Presence and choose Exit app before replacing
+the executable. Keep config.json and runtime/ to preserve your preferences.
 
-UPDATING
-Close the interface and stop Presence before replacing the executable.
-Keep config.json and runtime/ to preserve your preferences and image cache.
-These files are created automatically and are not included in public releases.
+COMPATIBILITY
+For Azimuth 0.9.9 and FH2 1.0.0.64. Vehicle, region and open-world Presence
+have been checked on this combination. Racing features still need fresh
+validation on 0.9.9. Future Azimuth versions and the recent Extra Options
+update are not confirmed compatible. Use legacy v1.0.0 for Azimuth 0.9.7.
+Discord activity updates have a minimum 15-second send interval.
 
-PRIVACY AND IMAGE HOSTING
-The companion reads the running game and the latest committed local player
-database. It does not modify game memory or save files.
-Automatic Thumbnails is disabled by default. When enabled, only generated car
-thumbnail cards are uploaded to Uguu as public, temporary PNG links, so Discord
-can display them. Saves, logs and the player database are not uploaded.
-The card can contain the vehicle name, appearance, class and performance index.
-Icons, fallback logos and the cover image are loaded from external hosts.
-Translations are included locally; no translation service is used.
+PRIVACY AND FREE USE
+All features are free. Automatic image hosting and local history are off
+by default. If you enable images, generated car cards are uploaded to Uguu
+as public, temporary links; existing links cannot be revoked by the app.
+History stores vehicle names and recorded durations on your PC, including
+when those details are hidden in Discord. No game files or personal
+configuration are included. The app does not modify game memory or saves.
+Source code remains private. Optional donations do not unlock features.
 
-KNOWN LIMITS
-v1.1.0 adds support for the Azimuth 0.9.9 per-title configuration and save paths.
-Vehicle name, class/PI, thumbnail, region, pause and open-world presence were
-checked live with FH2 1.0.0.64. Racing modes need a fresh test on 0.9.9.
-For Azimuth 0.9.7, the v1.0.0 release is also available.
-Geographic regions are approximate. A new paint or wheel appearance needs a
-thumbnail saved by the game; the companion cannot invent missing thumbnails.
-Discord changes have a minimum send interval of 15 seconds, independently of
-the local reading rate. Public image hosts and Discord image caching can add delay.
-Extra Options was used during investigation and is not called by the program;
-a full validation session with that mod disabled has not yet been completed.
-Most activity icons are original Forza artwork from several game editions;
-the pause icon currently uses a Twemoji fallback. See the source credits.
-
-SOURCE CODE AND FREE USE
-The source code is private. This public repository contains downloads,
-documentation and issue tracking only. The application is free to use;
-it is not licensed under MIT. See LICENSE.txt for the binary usage terms.
-
-BUG REPORTS
-Use GitHub Issues. Include the game and Azimuth versions, the activity that
-failed and the expected result. Review logs before attaching them and never
-share saves, credentials or your complete game installation.
-
-SUPPORT
-The program is free. Optional donations support continued development and do
-not unlock features or include the game.
-Support the project: https://ko-fi.com/puppetzim
-Official downloads: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases
-
-CREDITS
-Independent fan project; not affiliated with Microsoft, Xbox, Playground Games,
-Turn 10, Discord or Azimuth. Game files are not distributed with this project.
-Forza artwork, car manufacturer marks and other third-party assets belong to
-their respective owners. See THIRD-PARTY-NOTICES.txt and FORZA-ICON-SOURCES.txt.
+App: https://puppetzim.itch.io/fh2-discord-presence
+Downloads: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases
+Issues: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues
+Optional support: https://ko-fi.com/puppetzim

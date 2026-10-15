@@ -1,6 +1,6 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">⬇ 免费下载 Windows x64 版本</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">⬇ 免费下载 Windows x64 版本</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">v1.2.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">v1.3.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -42,7 +42,7 @@
 
 图片上传默认关闭。启用后，仅生成的车辆卡片会作为公开、临时 PNG 上传到 Uguu。不会上传存档、日志或玩家数据库。程序不修改游戏内存或存档。翻译在本地提供；图片和图标可能使用外部服务。
 
-FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.2.0。在 0.9.9 上已确认车辆、等级/指数、缩略图、地区、暂停和开放世界；比赛功能仍需重新验证。Discord 两次发送至少间隔 15 秒，图片缓存可能造成延迟。地区判断为近似值。尚未完成禁用 [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) 后的完整验证。
+FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.3.0。在 0.9.9 上已确认车辆、等级/指数、缩略图、地区、暂停和开放世界；比赛功能仍需重新验证。Discord 两次发送至少间隔 15 秒，图片缓存可能造成延迟。地区判断为近似值。尚未完成禁用 [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) 后的完整验证。
 
 ## 更新、问题与支持
 

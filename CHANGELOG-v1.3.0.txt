@@ -1,0 +1,46 @@
+FH2 Discord Presence v1.3.0 — Azimuth 0.9.9
+
+You can now keep the app in the Windows tray while you play. Open the panel,
+stop Presence or quit from the tray menu. Closing the panel keeps it running
+when Minimize to tray is enabled. Use Exit app to shut it down completely.
+
+Presence profiles let you switch between the full display, no location, or
+just the game. You can also save your own privacy and timer settings. The
+session timer can appear in Discord or be hidden if you prefer.
+
+The preview separates the next update from the last one Discord accepted,
+so it's easier to understand why a change hasn't appeared yet. Acceptance
+confirms the activity payload; Discord's image cache can still delay pictures.
+
+First-time setup checks your Azimuth folder and Discord before you start.
+There's also an optional local history of the cars you've used and the time
+recorded in each session. It's off by default, stays on your PC and can be
+deleted from the panel. Up to 50 sessions are kept.
+
+INSTALLING OR UPDATING
+Windows 11 x64, Microsoft Edge WebView2 Runtime and Discord desktop are
+required. Python is not required. Extract rich-presence next to azimuth.exe,
+open Discord, then run FH2 Presence.exe. You can choose another Azimuth
+folder during setup. Stop Presence and choose Exit app before replacing
+the executable. Keep config.json and runtime/ to preserve your preferences.
+
+COMPATIBILITY
+For Azimuth 0.9.9 and FH2 1.0.0.64. Vehicle, region and open-world Presence
+have been checked on this combination. Racing features still need fresh
+validation on 0.9.9. Future Azimuth versions and the recent Extra Options
+update are not confirmed compatible. Use legacy v1.0.0 for Azimuth 0.9.7.
+Discord activity updates have a minimum 15-second send interval.
+
+PRIVACY AND FREE USE
+All features are free. Automatic image hosting and local history are off
+by default. If you enable images, generated car cards are uploaded to Uguu
+as public, temporary links; existing links cannot be revoked by the app.
+History stores vehicle names and recorded durations on your PC, including
+when those details are hidden in Discord. No game files or personal
+configuration are included. The app does not modify game memory or saves.
+Source code remains private. Optional donations do not unlock features.
+
+App: https://puppetzim.itch.io/fh2-discord-presence
+Downloads: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases
+Issues: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues
+Optional support: https://ko-fi.com/puppetzim

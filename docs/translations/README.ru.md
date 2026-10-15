@@ -1,6 +1,6 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">⬇ Скачать бесплатно для Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">⬇ Скачать бесплатно для Windows x64</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">v1.2.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.0/FH2-Presence-v1.3.0-Windows-x64.zip">v1.3.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -42,7 +42,7 @@
 
 Загрузка изображений по умолчанию отключена. Если её включить, только карточки автомобилей отправляются на Uguu как общедоступные временные PNG. Сохранения, журналы и база игрока не отправляются. Программа не изменяет память игры или сохранения. Переводы доступны локально; изображения и значки могут загружаться с внешних сервисов.
 
-Для FH2 1.0.0.64: используйте v1.0.0 с Azimuth 0.9.7 или v1.2.0 с Azimuth 0.9.9. На 0.9.9 подтверждены автомобиль, класс/индекс, миниатюра, регион, пауза и открытый мир; гонки ещё требуют повторной проверки. Минимальный интервал отправки в Discord — 15 секунд; кеш может задерживать изображения. Регионы определяются приблизительно. Полная проверка без [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) ещё не выполнена.
+Для FH2 1.0.0.64: используйте v1.0.0 с Azimuth 0.9.7 или v1.3.0 с Azimuth 0.9.9. На 0.9.9 подтверждены автомобиль, класс/индекс, миниатюра, регион, пауза и открытый мир; гонки ещё требуют повторной проверки. Минимальный интервал отправки в Discord — 15 секунд; кеш может задерживать изображения. Регионы определяются приблизительно. Полная проверка без [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) ещё не выполнена.
 
 ## Обновления, ошибки и поддержка
 
