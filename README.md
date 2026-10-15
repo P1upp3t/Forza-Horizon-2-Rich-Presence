@@ -2,9 +2,7 @@
 
 A free Windows companion for **Forza Horizon 2 on Azimuth**. Share your car, approximate region and in-game activity through Discord Rich Presence.
 
-<a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest"><img src="docs/buttons/download-latest.svg" alt="Download latest release" height="48" /></a>&nbsp;&nbsp;<a href="https://ko-fi.com/puppetzim"><img src="docs/buttons/support-kofi.svg" alt="Support on Ko-fi — optional" height="48" /></a>
-
-[itch.io](https://puppetzim.itch.io/fh2-discord-presence) · [Report an issue](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues)
+<a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest"><img src="docs/buttons/download-latest.svg" alt="Download latest release" height="48" /></a>&nbsp;&nbsp;<a href="https://ko-fi.com/puppetzim"><img src="docs/buttons/support-kofi.svg" alt="Support on Ko-fi — optional" height="48" /></a>&nbsp;&nbsp;<a href="https://puppetzim.itch.io/fh2-discord-presence"><img src="docs/buttons/itchio.svg" alt="View on itch.io" height="48" /></a>&nbsp;&nbsp;<a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues"><img src="docs/buttons/report-issue.svg" alt="Report an issue" height="48" /></a>
 
 <p align="center"><a href="README.md">English</a> · <a href="docs/translations/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/translations/README.zh-CN.md">简体中文</a> · <a href="docs/translations/README.hi.md">हिन्दी</a> · <a href="docs/translations/README.es.md">Español</a> · <a href="docs/translations/README.fr.md">Français</a> · <a href="docs/translations/README.ar.md">العربية</a> · <a href="docs/translations/README.bn.md">বাংলা</a> · <a href="docs/translations/README.ru.md">Русский</a></p>
 
