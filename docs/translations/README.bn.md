@@ -1,6 +1,6 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ Windows x64-এর জন্য বিনামূল্যে ডাউনলোড</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">⬇ Windows x64-এর জন্য বিনামূল্যে ডাউনলোড</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">v1.2.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -42,7 +42,7 @@ Windows 11 x64, Microsoft Edge WebView2 এবং আপনার নিজে�
 
 ছবি আপলোড ডিফল্টভাবে বন্ধ থাকে। চালু করলে শুধু গাড়ির কার্ড Uguu-তে সর্বজনীন, অস্থায়ী PNG হিসেবে পাঠানো হয়। সেভ, লগ ও খেলোয়াড়ের ডেটাবেস আপলোড হয় না। অ্যাপ গেমের মেমরি বা সেভ পরিবর্তন করে না। অনুবাদ স্থানীয়ভাবে থাকে; ছবি ও আইকনের জন্য বাইরের পরিষেবা ব্যবহার হতে পারে।
 
-FH2 1.0.0.64-এর জন্য: Azimuth 0.9.7-এ v1.0.0 এবং Azimuth 0.9.9-এ v1.1.0 ব্যবহার করুন। 0.9.9-এ গাড়ি, ক্লাস/ইনডেক্স, থাম্বনেইল, অঞ্চল, বিরতি ও ওপেন ওয়ার্ল্ড নিশ্চিত হয়েছে; রেসের পুনরায় পরীক্ষা বাকি। Discord-এ পাঠানোর সর্বনিম্ন ব্যবধান 15 সেকেন্ড; ক্যাশের কারণে ছবি দেরিতে আসতে পারে। অঞ্চল আনুমানিক। [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) বন্ধ করে সম্পূর্ণ পরীক্ষা এখনো বাকি।
+FH2 1.0.0.64-এর জন্য: Azimuth 0.9.7-এ v1.0.0 এবং Azimuth 0.9.9-এ v1.2.0 ব্যবহার করুন। 0.9.9-এ গাড়ি, ক্লাস/ইনডেক্স, থাম্বনেইল, অঞ্চল, বিরতি ও ওপেন ওয়ার্ল্ড নিশ্চিত হয়েছে; রেসের পুনরায় পরীক্ষা বাকি। Discord-এ পাঠানোর সর্বনিম্ন ব্যবধান 15 সেকেন্ড; ক্যাশের কারণে ছবি দেরিতে আসতে পারে। অঞ্চল আনুমানিক। [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) বন্ধ করে সম্পূর্ণ পরীক্ষা এখনো বাকি।
 
 ## আপডেট, সমস্যা ও সহায়তা
 
