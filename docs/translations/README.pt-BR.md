@@ -28,7 +28,7 @@ Aplicativo gratuito para Windows que mostra informações do Forza Horizon 2 de 
 3. Execute FH2 Presence.exe. Escolha Start Presence ou Launch FH2 + Presence.
 4. Para enviar miniaturas personalizadas, ative Automatic Thumbnails em Preferences.
 
-Windows 11 x64, Microsoft Edge WebView2 e sua instalação do jogo são necessários. Não é preciso instalar Python nem fornecer senha ou token do Discord.
+São necessários o Discord para desktop e sua própria instalação legítima do jogo. Não é preciso instalar Python nem fornecer senha ou token do Discord.
 
 ## Privacidade e compatibilidade
 

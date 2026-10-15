@@ -28,7 +28,7 @@ Aplicación gratuita para Windows que muestra en Discord tu actividad en Forza H
 3. Ejecuta FH2 Presence.exe y elige Start Presence o Launch FH2 + Presence.
 4. Para compartir tarjetas personalizadas, activa Automatic Thumbnails en Preferences.
 
-Requiere Windows 11 x64, Microsoft Edge WebView2 y tu propia instalación del juego. No necesitas Python, contraseña ni token de Discord.
+Requiere Discord de escritorio y tu propia instalación legítima del juego. No necesitas Python, contraseña ni token de Discord.
 
 ## Privacidad y compatibilidad
 

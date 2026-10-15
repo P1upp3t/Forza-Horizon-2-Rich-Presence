@@ -19,7 +19,7 @@ Screenshots and version-by-version changes are in [Releases](https://github.com/
 
 ## Install & update
 
-Requires **Windows 11 x64, WebView2, Discord desktop** and your own legitimate game installation. Python is not required. [Get Azimuth](https://almost-there-games.itch.io/azimuth).
+Requires **Discord desktop** and your own legitimate game installation. Python is not required. [Get Azimuth](https://almost-there-games.itch.io/azimuth).
 
 1. Choose the download for your Azimuth version: [current release for 0.9.9](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
 2. Extract `rich-presence` next to `azimuth.exe`.

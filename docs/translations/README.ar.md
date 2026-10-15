@@ -30,7 +30,7 @@
 3. شغّل FH2 Presence.exe واختر Start Presence أو Launch FH2 + Presence.
 4. لنشر بطاقات مخصصة، فعّل Automatic Thumbnails من Preferences.
 
-يتطلب Windows 11 x64 وMicrosoft Edge WebView2 ونسختك المثبتة من اللعبة. لا تحتاج إلى Python أو كلمة مرور Discord أو رمزه المميز.
+يتطلب Discord لسطح المكتب ونسختك القانونية المثبتة من اللعبة. لا تحتاج إلى Python أو كلمة مرور Discord أو رمزه المميز.
 
 ## الخصوصية والتوافق
 

@@ -28,7 +28,7 @@
 3. Запустите FH2 Presence.exe и выберите Start Presence или Launch FH2 + Presence.
 4. Для собственных карточек включите Automatic Thumbnails в Preferences.
 
-Нужны Windows 11 x64, Microsoft Edge WebView2 и ваша установка игры. Python, пароль и токен Discord не требуются.
+Нужны настольный Discord и ваша собственная легальная установка игры. Python, пароль и токен Discord не требуются.
 
 ## Конфиденциальность и совместимость
 

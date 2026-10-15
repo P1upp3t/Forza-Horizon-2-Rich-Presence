@@ -28,7 +28,7 @@
 3. FH2 Presence.exe চালিয়ে Start Presence অথবা Launch FH2 + Presence নির্বাচন করুন।
 4. নিজস্ব গাড়ির কার্ডের জন্য Preferences থেকে Automatic Thumbnails চালু করুন।
 
-Windows 11 x64, Microsoft Edge WebView2 এবং আপনার নিজের গেম ইনস্টলেশন প্রয়োজন। Python বা Discord-এর পাসওয়ার্ড ও টোকেন দরকার নেই।
+Discord ডেস্কটপ এবং আপনার নিজের বৈধ গেম ইনস্টলেশন প্রয়োজন। Python বা Discord-এর পাসওয়ার্ড ও টোকেন দরকার নেই।
 
 ## গোপনীয়তা ও সামঞ্জস্য
 

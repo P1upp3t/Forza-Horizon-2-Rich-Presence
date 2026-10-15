@@ -28,7 +28,7 @@ Application Windows gratuite qui affiche sur Discord votre activité dans Forza 
 3. Lancez FH2 Presence.exe, puis choisissez Start Presence ou Launch FH2 + Presence.
 4. Pour publier des cartes personnalisées, activez Automatic Thumbnails dans Preferences.
 
-Nécessite Windows 11 x64, Microsoft Edge WebView2 et votre installation du jeu. Python, mot de passe et jeton Discord ne sont pas nécessaires.
+Nécessite Discord pour ordinateur et votre propre installation légitime du jeu. Python, mot de passe et jeton Discord ne sont pas nécessaires.
 
 ## Confidentialité et compatibilité
 

@@ -28,7 +28,7 @@
 3. 运行 FH2 Presence.exe，选择 Start Presence 或 Launch FH2 + Presence。
 4. 如需发布自定义车辆卡片，在 Preferences 中启用 Automatic Thumbnails。
 
-需要 Windows 11 x64、Microsoft Edge WebView2 和你自己的游戏安装。无需安装 Python，也无需提供 Discord 密码或令牌。
+需要 Discord 桌面版和你自己的正版游戏安装。无需安装 Python，也无需提供 Discord 密码或令牌。
 
 ## 隐私与兼容性
 
