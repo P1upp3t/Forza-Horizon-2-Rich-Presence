@@ -6,7 +6,7 @@
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
-<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 <div dir="rtl">
 
@@ -54,7 +54,7 @@
 
 لا يفتح التبرع ميزات إضافية ولا يتضمن اللعبة. التطبيق مجاني وشفرتُه خاصة. راجع LICENSE.txt للشروط؛ وتحتفظ مكونات الأطراف الأخرى بحقوقها. مشروع مستقل وغير تابع لأصحاب حقوق Forza أو Discord أو Azimuth.
 
-[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
 </div>
 
@@ -67,4 +67,4 @@
 - **تحديثات الإصدار** — فحص إصدارات GitHub الرسمية عند الطلب. لا تنزيل أو تثبيت تلقائي. يجب إعلان التوافق صراحة.
 - **تقرير الأخطاء** — عاين تقريرًا محليًا للإصدارات والاتصال والتفضيلات. لا يتضمن الحفظ أو السجلات أو بيانات اللاعب أو المعلومات الشخصية. لا يُرسل تلقائيًا.
 
-[English release notes](../../CHANGELOG-v1.2.0.txt)
+[English release notes](../CHANGELOG-v1.2.0.txt)

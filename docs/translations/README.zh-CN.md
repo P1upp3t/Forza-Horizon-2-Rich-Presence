@@ -6,7 +6,7 @@
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
-<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
@@ -52,7 +52,7 @@ FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.3.2。在 0
 
 捐赠不会解锁额外功能，也不包含游戏。这是源代码不公开的免费软件，使用条款见 LICENSE.txt；第三方软件和图片保留各自权利。本项目独立开发，与 Forza、Discord 或 Azimuth 的权利方无关联。
 
-[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
 
 ## v1.2.0 · Azimuth 0.9.9
@@ -63,4 +63,4 @@ FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.3.2。在 0
 - **版本更新** — 按需检查 GitHub 官方版本，不自动下载或安装。兼容性必须明确列出。
 - **错误报告** — 预览包含版本、连接和偏好的本地报告，不包含存档、日志、玩家数据或个人信息。不自动发送。
 
-[English release notes](../../CHANGELOG-v1.2.0.txt)
+[English release notes](../CHANGELOG-v1.2.0.txt)

@@ -6,7 +6,7 @@
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
-<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
@@ -52,7 +52,7 @@ FH2 1.0.0.64 के लिए: Azimuth 0.9.7 के साथ v1.0.0 और Azim
 
 दान करने से कोई सुविधा अनलॉक नहीं होती और गेम नहीं मिलता। यह निजी सोर्स कोड वाला मुफ़्त सॉफ़्टवेयर है। शर्तों के लिए LICENSE.txt देखें। थर्ड-पार्टी सामग्री के अधिकार उसके मालिकों के पास हैं। यह Forza, Discord या Azimuth के अधिकारधारकों से असंबद्ध स्वतंत्र प्रोजेक्ट है।
 
-[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
 
 ## v1.2.0 · Azimuth 0.9.9
@@ -63,4 +63,4 @@ FH2 1.0.0.64 के लिए: Azimuth 0.9.7 के साथ v1.0.0 और Azim
 - **संस्करण अपडेट** — अनुरोध पर आधिकारिक GitHub रिलीज़ जाँचें। स्वचालित डाउनलोड या इंस्टॉल नहीं। संगतता स्पष्ट होनी चाहिए।
 - **बग रिपोर्ट** — संस्करण, कनेक्शन और प्राथमिकताओं की स्थानीय रिपोर्ट देखें। सेव, लॉग, खिलाड़ी डेटा और निजी जानकारी शामिल नहीं हैं। स्वतः भेजी नहीं जाती।
 
-[English release notes](../../CHANGELOG-v1.2.0.txt)
+[English release notes](../CHANGELOG-v1.2.0.txt)

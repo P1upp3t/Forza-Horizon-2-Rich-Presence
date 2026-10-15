@@ -8,7 +8,7 @@
 <p align="center"><a href="README.md">English</a> · <a href="docs/translations/README.pt-BR.md">Português (Brasil)</a> · <a href="docs/translations/README.zh-CN.md">简体中文</a> · <a href="docs/translations/README.hi.md">हिन्दी</a> · <a href="docs/translations/README.es.md">Español</a> · <a href="docs/translations/README.fr.md">Français</a> · <a href="docs/translations/README.ar.md">العربية</a> · <a href="docs/translations/README.bn.md">বাংলা</a> · <a href="docs/translations/README.ru.md">Русский</a></p>
 
 <p align="center">
-  <img src="FH2-Presence.png" alt="FH2 Discord Presence icon" width="112" />
+  <img src="docs/FH2-Presence.png" alt="FH2 Discord Presence icon" width="112" />
 </p>
 
 <h1 align="center">Forza Horizon 2 — Discord Rich Presence</h1>
@@ -41,13 +41,13 @@ Download and prepare a compatible official update, verify its checksum, and inst
 
 Export or import settings and profiles without copying game paths, credentials, images or history. Optional Windows notices report a lost or restored Discord connection without showing activity details.
 
-**Save and apply profile** now does both in one click and keeps the language and reading rate selected in the panel. [Release notes](CHANGELOG-v1.3.2.txt).
+**Save and apply profile** now does both in one click and keeps the language and reading rate selected in the panel. [Release notes](docs/CHANGELOG-v1.3.2.txt).
 
 ## New in v1.3.1
 
 Compact mode keeps the preview and main controls in a smaller window. After painting or upgrades, the panel warns when no newer saved thumbnail has appeared; if the appearance changed, try reselecting the car. With local history enabled, closing Azimuth shows the recorded session time and cars used.
 
-Includes all v1.3.0 features below. [Read the release notes](CHANGELOG-v1.3.1.txt).
+Includes all v1.3.0 features below. [Read the release notes](docs/CHANGELOG-v1.3.1.txt).
 
 ## New in v1.3.0
 
@@ -160,9 +160,9 @@ If you enjoy the app, you can [leave an optional donation on Ko-fi](https://ko-f
 
 ## License & credits
 
-The application is **freeware with private source code**, not an MIT-licensed project. See [LICENSE.txt](LICENSE.txt) for usage terms.
+The application is **freeware with private source code**, not an MIT-licensed project. See [LICENSE.txt](docs/LICENSE.txt) for usage terms.
 
-Third-party software and artwork retain their own licenses and rights. See [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) and [FORZA-ICON-SOURCES.txt](FORZA-ICON-SOURCES.txt).
+Third-party software and artwork retain their own licenses and rights. See [THIRD-PARTY-NOTICES.txt](docs/THIRD-PARTY-NOTICES.txt) and [FORZA-ICON-SOURCES.txt](docs/FORZA-ICON-SOURCES.txt).
 
 [Forza Horizon 2 Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) helped during investigation. This project does not distribute that mod, the game or save files.
 

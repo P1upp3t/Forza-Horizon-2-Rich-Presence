@@ -6,7 +6,7 @@
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
-<p align="center"><img src="../../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
+<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
@@ -52,7 +52,7 @@ Pare a presença e feche o aplicativo antes de atualizar. Preserve config.json e
 
 Doar não desbloqueia funções nem inclui o jogo. O aplicativo é freeware com código privado. Consulte LICENSE.txt; software e imagens de terceiros mantêm seus próprios direitos. Projeto independente, sem vínculo com os titulares de Forza, Discord ou Azimuth.
 
-[LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
+[LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
 
 ## v1.2.0 · Azimuth 0.9.9
@@ -63,4 +63,4 @@ Doar não desbloqueia funções nem inclui o jogo. O aplicativo é freeware com 
 - **Atualizações de versão** — Consulta as versões oficiais do GitHub quando solicitado. Sem baixar ou instalar automaticamente. A compatibilidade precisa estar declarada.
 - **Relatório para bugs** — Revise um relatório local com versões, conexão e preferências. Não inclui saves, logs, dados do jogador ou informações pessoais. Nada é enviado automaticamente.
 
-[English release notes](../../CHANGELOG-v1.2.0.txt)
+[English release notes](../CHANGELOG-v1.2.0.txt)
