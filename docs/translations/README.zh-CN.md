@@ -1,4 +1,4 @@
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.0/FH2-Presence-v1.4.0-Windows-x64.zip">v1.4.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
@@ -7,6 +7,11 @@
 在 Discord 上展示你的爱车、比赛和 Horizon 旅程。
 
 这款免费 Windows 工具可为通过 Azimuth 运行的 Xbox One 版 Forza Horizon 2 提供 Discord 动态状态。所有功能均可免费使用，捐赠完全自愿。源代码不公开。
+
+
+简化面板、可折叠偏好设置和可选的托盘启动。隐私模式可仅显示游戏并返回上一个配置；本地隐私预览和默认值检查可帮助您在保存前确认设置。
+
+首次设置后，面板可启动到 Windows 托盘。通过托盘图标打开面板，或在偏好设置的行为与历史记录中关闭此选项。Presence 仍需手动启动。
 
 ## 功能
 
@@ -34,7 +39,7 @@
 
 图片上传默认关闭。启用后，仅生成的车辆卡片会作为公开、临时 PNG 上传到 Uguu。不会上传存档、日志或玩家数据库。程序不修改游戏内存或存档。翻译在本地提供；图片和图标可能使用外部服务。
 
-FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.3.2。在 0.9.9 上已确认车辆、等级/指数、缩略图、地区、暂停和开放世界；比赛功能仍需重新验证。Discord 两次发送至少间隔 15 秒，图片缓存可能造成延迟。地区判断为近似值。尚未完成禁用 [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) 后的完整验证。
+FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.4.0。在 0.9.9 上已确认车辆、等级/指数、缩略图、地区、暂停和开放世界；比赛功能仍需重新验证。Discord 两次发送至少间隔 15 秒，图片缓存可能造成延迟。地区判断为近似值。尚未完成禁用 [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) 后的完整验证。
 
 ## 更新、问题与支持
 
@@ -47,3 +52,5 @@ FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.3.2。在 0
 [LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
 [Releases](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Devlog](https://puppetzim.itch.io/fh2-discord-presence/devlog) · [itch.io](https://puppetzim.itch.io/fh2-discord-presence)
+
+[常见问题（英语）](../FAQ.md)

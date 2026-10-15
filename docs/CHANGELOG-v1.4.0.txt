@@ -1,0 +1,16 @@
+NEW IN v1.4.0
+
+- Review a compatibility warning if Azimuth is unconfirmed or unidentified.
+- Get a warning before leaving unapplied preferences or replacing a draft.
+- Review defaults before filling and saving the preference form.
+- Try privacy switches in a local example without sending to Discord.
+- Use discreet mode to show only the game, then return to your previous profile.
+- Opening the app again brings back the existing panel.
+- Choose whether the panel opens in the Windows tray.
+- Closing to the tray no longer waits for JavaScript on the GUI thread.
+- Window position and size are remembered for full and compact views.
+- Clearer keyboard focus and more readable controls in compact mode.
+- Brazilian Portuguese keeps the feature name Presence.
+- Updated help covers connection delays, thumbnails and preference handling.
+
+Keep config.json and runtime when updating. Start Presence when ready.

@@ -9,7 +9,8 @@ A free Windows companion for **Forza Horizon 2 on Azimuth**. Share your car, app
 ## Features
 
 - Vehicle cards with the saved car thumbnail, model year, class and performance index; region, race progress and activity icons when available.
-- Privacy controls, saved profiles, an optional session timer, compact mode and Windows tray controls.
+- Privacy controls with a local example, discreet mode with return to the previous profile, saved profiles and an optional session timer.
+- A simpler panel, collapsible Preferences, compact mode, remembered window layout and optional startup in the Windows tray.
 - Launch Azimuth with Presence, check connections, stop Presence after Azimuth closes and enable optional connection notifications.
 - Compatible release checks, assisted updates with a local backup and rollback, and preference export/import.
 - Local bug-report previews and optional session history. History is off by default, keeps up to 50 sessions and stays on your PC.
@@ -21,10 +22,12 @@ Screenshots and version-by-version changes are in [Releases](https://github.com/
 
 Requires **Discord desktop** and your own legitimate game installation. Python is not required. [Get Azimuth](https://almost-there-games.itch.io/azimuth).
 
-1. Choose the download for your Azimuth version: [current release for 0.9.9](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
+1. Choose the download for your Azimuth version: [current release for 0.9.9](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.0/FH2-Presence-v1.4.0-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
 2. Extract `rich-presence` next to `azimuth.exe`.
 3. Open Discord, run `FH2 Presence.exe` and choose **Start Presence** or **Launch FH2 + Presence**.
 4. Enable **Automatic Thumbnails** in Preferences if you want custom vehicle cards.
+
+After first-time setup, the panel can open in the Windows tray. Open it from the tray icon or turn off **Start in tray** in **Preferences → Behaviour and history**. Presence still starts manually.
 
 For a manual update, stop Presence and choose **Exit app** before replacing files. Keep `config.json` and `runtime/`. Assisted updates restart the panel and keep a local backup; rollback becomes available after an assisted installation.
 
@@ -37,6 +40,8 @@ The current release supports **Azimuth 0.9.9 / FH2 1.0.0.64**. Racing support on
 - Thumbnail hosting is off by default. Enabling it uploads generated car cards to Uguu as public, temporary images. Hiding the vehicle prevents new uploads; uploads already in progress may finish, and existing links cannot be revoked. Activity artwork can load from external hosts.
 
 ## Feedback & credits
+
+[Frequently asked questions](docs/FAQ.md) cover connection issues, image caching, updates and privacy.
 
 When reporting a problem, include your game and Azimuth versions, what happened and what you expected. Review the local bug report before attaching it.
 

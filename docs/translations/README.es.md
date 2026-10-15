@@ -1,4 +1,4 @@
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.0/FH2-Presence-v1.4.0-Windows-x64.zip">v1.4.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
@@ -7,6 +7,11 @@
 Tu coche, tu carrera y tu viaje por Horizon, en Discord.
 
 Aplicación gratuita para Windows que muestra en Discord tu actividad en Forza Horizon 2 de Xbox One ejecutado mediante Azimuth. Todas las funciones son gratuitas; las donaciones son opcionales. El código fuente es privado.
+
+
+Panel simplificado, secciones de Preferencias plegables e inicio opcional en la bandeja. El modo discreto muestra solo el juego y permite volver al perfil anterior; la vista previa de privacidad y la revisión de valores predeterminados ayudan antes de guardar.
+
+Tras la configuración inicial, el panel puede abrirse en la bandeja de Windows. Ábrelo desde el icono o desactiva Iniciar en la bandeja en Preferencias → Comportamiento e historial. Presence sigue iniciándose manualmente.
 
 ## Funciones
 
@@ -34,7 +39,7 @@ Requiere Discord de escritorio y tu propia instalación legítima del juego. No 
 
 El envío de imágenes está desactivado por defecto. Al activarlo, solo las tarjetas de vehículos se suben a Uguu como PNG públicos y temporales. No se suben partidas guardadas, registros ni la base de datos del jugador. La aplicación no modifica la memoria ni las partidas. Las traducciones son locales; las imágenes y los iconos pueden usar servicios externos.
 
-FH2 1.0.0.64: usa v1.0.0 con Azimuth 0.9.7 o v1.3.2 con Azimuth 0.9.9. En 0.9.9 se confirmaron vehículo, clase/índice, miniatura, región, pausa y mundo abierto; las carreras necesitan otra validación. Discord tiene un intervalo mínimo de 15 segundos entre envíos; su caché puede retrasar las imágenes. Las regiones son aproximadas. La validación completa sin [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) aún está pendiente.
+FH2 1.0.0.64: usa v1.0.0 con Azimuth 0.9.7 o v1.4.0 con Azimuth 0.9.9. En 0.9.9 se confirmaron vehículo, clase/índice, miniatura, región, pausa y mundo abierto; las carreras necesitan otra validación. Discord tiene un intervalo mínimo de 15 segundos entre envíos; su caché puede retrasar las imágenes. Las regiones son aproximadas. La validación completa sin [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) aún está pendiente.
 
 ## Actualizaciones, problemas y apoyo
 
@@ -47,3 +52,5 @@ Donar no desbloquea funciones ni incluye el juego. Es freeware con código priva
 [LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
 [Releases](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Devlog](https://puppetzim.itch.io/fh2-discord-presence/devlog) · [itch.io](https://puppetzim.itch.io/fh2-discord-presence)
+
+[Preguntas frecuentes (inglés)](../FAQ.md)
