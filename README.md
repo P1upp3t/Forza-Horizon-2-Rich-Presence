@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/FH2-Presence.png" alt="FH2 Discord Presence" width="128" /></p>
+
 # FH2 Discord Presence
 
 A free Windows companion for **Forza Horizon 2 on Azimuth**. Share your car, approximate region and in-game activity through Discord Rich Presence.

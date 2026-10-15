@@ -14,3 +14,6 @@ NEW IN v1.4.0
 - Updated help covers connection delays, thumbnails and preference handling.
 
 Keep config.json and runtime when updating. Start Presence when ready.
+
+VISUAL UPDATE — 15 October 2026
+The H icon now includes the white Discord symbol to distinguish this companion. Version remains 1.4.0; features are unchanged.
