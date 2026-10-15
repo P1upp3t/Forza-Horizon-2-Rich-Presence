@@ -1,18 +1,10 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">⬇ 免费下载 Windows x64 版本</a></h2>
-
 <p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-
-
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
-
-<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
 在 Discord 上展示你的爱车、比赛和 Horizon 旅程。
-
-<p align="center"><a href="https://ko-fi.com/puppetzim"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="在 Ko-fi 上支持" height="52" /></a></p>
 
 这款免费 Windows 工具可为通过 Azimuth 运行的 Xbox One 版 Forza Horizon 2 提供 Discord 动态状态。所有功能均可免费使用，捐赠完全自愿。源代码不公开。
 
@@ -54,13 +46,4 @@ FH2 1.0.0.64：Azimuth 0.9.7 使用 v1.0.0，Azimuth 0.9.9 使用 v1.3.2。在 0
 
 [LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
-
-## v1.2.0 · Azimuth 0.9.9
-
-- **连接诊断** — 游戏数据和 Discord 已连接。
-- **Azimuth 关闭时停止状态服务** — 检测到的 Azimuth 会话关闭后，停止后台状态服务。控制面板保持打开。默认关闭。
-- **隐私控制** — 选择 Discord 和预览中显示的信息。隐藏车辆也会阻止上传新的车辆卡片。
-- **版本更新** — 按需检查 GitHub 官方版本，不自动下载或安装。兼容性必须明确列出。
-- **错误报告** — 预览包含版本、连接和偏好的本地报告，不包含存档、日志、玩家数据或个人信息。不自动发送。
-
-[English release notes](../CHANGELOG-v1.2.0.txt)
+[Releases](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Devlog](https://puppetzim.itch.io/fh2-discord-presence/devlog) · [itch.io](https://puppetzim.itch.io/fh2-discord-presence)

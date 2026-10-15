@@ -1,18 +1,10 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">⬇ Télécharger gratuitement pour Windows x64</a></h2>
-
 <p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-
-
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
-
-<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
 Votre voiture, votre course et votre aventure Horizon, sur Discord.
-
-<p align="center"><a href="https://ko-fi.com/puppetzim"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Soutenir sur Ko-fi" height="52" /></a></p>
 
 Application Windows gratuite qui affiche sur Discord votre activité dans Forza Horizon 2 pour Xbox One, exécuté via Azimuth. Toutes les fonctions sont gratuites ; les dons sont facultatifs. Le code source est privé.
 
@@ -54,13 +46,4 @@ Un don ne débloque aucune fonction et ne fournit pas le jeu. Le logiciel est un
 
 [LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
-
-## v1.2.0 · Azimuth 0.9.9
-
-- **Diagnostic de connexion** — Données du jeu et Discord connectés.
-- **Arrêter la présence à la fermeture d’Azimuth** — Arrête le service après la fermeture d’une session Azimuth détectée. Le panneau reste ouvert. Désactivé par défaut.
-- **Confidentialité** — Choisissez les informations visibles dans Discord et l’aperçu. Masquer le véhicule bloque les nouveaux envois de ses cartes.
-- **Mises à jour** — Consulte les versions officielles GitHub sur demande. Aucun téléchargement ni installation automatique. La compatibilité doit être déclarée.
-- **Rapport de bug** — Consultez un rapport local des versions, connexions et préférences. Sans sauvegardes, journaux, données du joueur ni informations personnelles. Aucun envoi automatique.
-
-[English release notes](../CHANGELOG-v1.2.0.txt)
+[Releases](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Devlog](https://puppetzim.itch.io/fh2-discord-presence/devlog) · [itch.io](https://puppetzim.itch.io/fh2-discord-presence)

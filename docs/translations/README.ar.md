@@ -1,20 +1,12 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">⬇ تنزيل مجاني لنظام Windows x64</a></h2>
-
 <p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-
-
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
-
-<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 <div dir="rtl">
 
 # Forza Horizon 2 — Discord Rich Presence
 
 سيارتك وسباقك ورحلتك في Horizon على Discord.
-
-<p align="center"><a href="https://ko-fi.com/puppetzim"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="الدعم عبر Ko-fi" height="52" /></a></p>
 
 تطبيق مجاني لنظام Windows يعرض نشاطك في نسخة Xbox One من Forza Horizon 2 التي تعمل عبر Azimuth على Discord. جميع الميزات مجانية والتبرعات اختيارية. الشفرة المصدرية خاصة.
 
@@ -58,13 +50,4 @@
 
 </div>
 
-
-## v1.2.0 · Azimuth 0.9.9
-
-- **فحص الاتصال** — بيانات اللعبة وDiscord متصلان.
-- **إيقاف الحالة عند إغلاق Azimuth** — أوقف خدمة الحالة بعد إغلاق جلسة Azimuth المكتشفة. تبقى لوحة التحكم مفتوحة. معطل افتراضيًا.
-- **الخصوصية** — اختر ما يظهر في Discord والمعاينة. إخفاء السيارة يمنع رفع بطاقات جديدة لها.
-- **تحديثات الإصدار** — فحص إصدارات GitHub الرسمية عند الطلب. لا تنزيل أو تثبيت تلقائي. يجب إعلان التوافق صراحة.
-- **تقرير الأخطاء** — عاين تقريرًا محليًا للإصدارات والاتصال والتفضيلات. لا يتضمن الحفظ أو السجلات أو بيانات اللاعب أو المعلومات الشخصية. لا يُرسل تلقائيًا.
-
-[English release notes](../CHANGELOG-v1.2.0.txt)
+[Releases](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Devlog](https://puppetzim.itch.io/fh2-discord-presence/devlog) · [itch.io](https://puppetzim.itch.io/fh2-discord-presence)

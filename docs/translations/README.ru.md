@@ -1,18 +1,10 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">⬇ Скачать бесплатно для Windows x64</a></h2>
-
 <p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
-
-
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
-
-<p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="112" /></p>
 
 # Forza Horizon 2 — Discord Rich Presence
 
 Ваш автомобиль, ваша гонка и ваше путешествие Horizon — в Discord.
-
-<p align="center"><a href="https://ko-fi.com/puppetzim"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Поддержать на Ko-fi" height="52" /></a></p>
 
 Бесплатное приложение для Windows, которое показывает в Discord вашу активность в версии Forza Horizon 2 для Xbox One, запущенной через Azimuth. Все функции бесплатны, пожертвования добровольны. Исходный код закрыт.
 
@@ -54,13 +46,4 @@
 
 [LICENSE.txt](../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../FORZA-ICON-SOURCES.txt)
 
-
-## v1.2.0 · Azimuth 0.9.9
-
-- **Проверка подключения** — Данные игры и Discord подключены.
-- **Останавливать активность при закрытии Azimuth** — Останавливает службу после закрытия обнаруженного сеанса Azimuth. Панель остаётся открытой. По умолчанию выключено.
-- **Конфиденциальность** — Выберите данные для Discord и предпросмотра. Скрытие автомобиля также блокирует новые загрузки его карточек.
-- **Обновления версии** — Проверяет официальные релизы GitHub по запросу. Без автоматической загрузки и установки. Совместимость должна быть указана явно.
-- **Отчёт об ошибке** — Просмотрите локальный отчёт о версиях, подключении и настройках. Без сохранений, журналов, данных игрока и личных сведений. Не отправляется автоматически.
-
-[English release notes](../CHANGELOG-v1.2.0.txt)
+[Releases](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Devlog](https://puppetzim.itch.io/fh2-discord-presence/devlog) · [itch.io](https://puppetzim.itch.io/fh2-discord-presence)
