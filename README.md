@@ -59,6 +59,16 @@ All five controls are translated in the nine interface languages. The new featur
 
 Hiding a vehicle prevents new uploads. Already-started uploads may finish, and previously hosted temporary images cannot be revoked by the companion.
 
+## Screenshots
+
+The current panel shows the session timer, delivery status and tray controls. Preferences contains profiles and optional history.
+
+![Full panel](docs/images/FH2-Presence-v1.3.1-Overview.png)
+
+![Compact mode](docs/images/FH2-Presence-v1.3.1-Compact.png)
+
+[View profiles, timer, tray and history settings](docs/images/FH2-Presence-v1.3.1-Preferences.png)
+
 ## Features
 
 | Feature | What appears on Discord |
@@ -149,4 +159,3 @@ Third-party software and artwork retain their own licenses and rights. See [THIR
 [Forza Horizon 2 Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) helped during investigation. This project does not distribute that mod, the game or save files.
 
 An independent fan project by **Puppet / P1upp3t**. Not affiliated with Microsoft, Xbox, Playground Games, Turn 10, Discord or Azimuth.
-
