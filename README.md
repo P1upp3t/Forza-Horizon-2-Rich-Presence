@@ -1,3 +1,4 @@
+<p align="center"><a href="https://puppetzim.itch.io/fh2-discord-presence"><b>View on itch.io</b></a> · <a href="https://ko-fi.com/puppetzim"><b>Support on Ko-fi</b></a></p>
 <h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
 
 <p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
