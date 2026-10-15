@@ -1,6 +1,6 @@
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.1/FH2-Presence-v1.3.1-Windows-x64.zip">⬇ تنزيل مجاني لنظام Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">⬇ تنزيل مجاني لنظام Windows x64</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.1/FH2-Presence-v1.3.1-Windows-x64.zip">v1.3.1</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.3.2/FH2-Presence-v1.3.2-Windows-x64.zip">v1.3.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -44,7 +44,7 @@
 
 رفع الصور معطّل افتراضيًا. عند تفعيله، تُرفع بطاقات السيارات فقط إلى Uguu بصيغة PNG عامة ومؤقتة. لا تُرفع ملفات الحفظ أو السجلات أو قاعدة بيانات اللاعب. لا يغيّر التطبيق ذاكرة اللعبة أو ملفات الحفظ. الترجمات محلية؛ وقد تستخدم الصور والأيقونات خدمات خارجية.
 
-مع FH2 1.0.0.64: استخدم v1.0.0 مع Azimuth 0.9.7 أو v1.3.1 مع Azimuth 0.9.9. تأكدت قراءة السيارة والفئة/المؤشر والصورة والمنطقة والإيقاف المؤقت والعالم المفتوح على 0.9.9؛ وما زالت السباقات تحتاج إلى إعادة اختبار. الحد الأدنى للفاصل بين الإرسال إلى Discord هو 15 ثانية، وقد يؤخر التخزين المؤقت الصور. تحديد المناطق تقريبي. ما زال الاختبار الكامل مع تعطيل [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) معلقًا.
+مع FH2 1.0.0.64: استخدم v1.0.0 مع Azimuth 0.9.7 أو v1.3.2 مع Azimuth 0.9.9. تأكدت قراءة السيارة والفئة/المؤشر والصورة والمنطقة والإيقاف المؤقت والعالم المفتوح على 0.9.9؛ وما زالت السباقات تحتاج إلى إعادة اختبار. الحد الأدنى للفاصل بين الإرسال إلى Discord هو 15 ثانية، وقد يؤخر التخزين المؤقت الصور. تحديد المناطق تقريبي. ما زال الاختبار الكامل مع تعطيل [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) معلقًا.
 
 ## التحديث والمشكلات والدعم
 
