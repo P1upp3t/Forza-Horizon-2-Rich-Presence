@@ -53,3 +53,14 @@ Pare a presença e feche o aplicativo antes de atualizar. Preserve config.json e
 Doar não desbloqueia funções nem inclui o jogo. O aplicativo é freeware com código privado. Consulte LICENSE.txt; software e imagens de terceiros mantêm seus próprios direitos. Projeto independente, sem vínculo com os titulares de Forza, Discord ou Azimuth.
 
 [LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
+
+
+## v1.2.0 · Azimuth 0.9.9
+
+- **Diagnóstico de conexão** — Dados do jogo e Discord conectados.
+- **Encerrar presença ao fechar o Azimuth** — Após uma sessão detectada do Azimuth fechar, encerra o serviço de presença. O painel continua aberto. Desativado por padrão.
+- **Controles de privacidade** — Escolha o que aparece no Discord e na prévia. Ocultar o veículo também impede novos envios de cartões do carro.
+- **Atualizações de versão** — Consulta as versões oficiais do GitHub quando solicitado. Sem baixar ou instalar automaticamente. A compatibilidade precisa estar declarada.
+- **Relatório para bugs** — Revise um relatório local com versões, conexão e preferências. Não inclui saves, logs, dados do jogador ou informações pessoais. Nada é enviado automaticamente.
+
+[English release notes](../../CHANGELOG-v1.2.0.txt)

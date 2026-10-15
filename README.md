@@ -1,7 +1,7 @@
 <p align="center"><a href="https://puppetzim.itch.io/fh2-discord-presence"><b>View on itch.io</b></a> · <a href="https://ko-fi.com/puppetzim"><b>Support on Ko-fi</b></a></p>
-<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
+<h2 align="center"><a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">⬇ Free download · Windows x64</a></h2>
 
-<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.1.0/FH2-Presence-v1.1.0-Windows-x64.zip">v1.1.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.2.0/FH2-Presence-v1.2.0-Windows-x64.zip">v1.2.0</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 
@@ -35,6 +35,18 @@ A **free Windows companion** for the Xbox One version of **Forza Horizon 2 runni
 
 **All features are free. Donations are optional.** This repository hosts official downloads, documentation and issue tracking. The source code is private.
 
+## New in v1.2.0
+
+- **Connection checks:** clear status for Azimuth, Discord, Presence and game data, with useful recovery actions.
+- **Automatic shutdown:** optional stop after Azimuth closes. The panel stays open; starting Presence stays manual.
+- **Privacy controls:** independently hide vehicle/thumbnail, approximate region or race details in Discord and the preview.
+- **Version checks:** manually check official releases against the installed Azimuth version. No automatic downloads or installation.
+- **Bug reports:** preview and save a local TXT diagnostic report. It excludes logs, saves, player data, credentials, paths and vehicle/location/race details; nothing is sent automatically.
+
+All five controls are translated in the nine interface languages. The new features were tested, and the installed build was checked live on **Azimuth 0.9.9 / FH2 1.0.0.64**. Racing features still need fresh validation on 0.9.9; future builds and the recent Extra Options update are not confirmed compatible. Use legacy v1.0.0 for Azimuth 0.9.7.
+
+Hiding a vehicle prevents new uploads. Already-started uploads may finish, and previously hosted temporary images cannot be revoked by the companion.
+
 ## Features
 
 | Feature | What appears on Discord |
@@ -58,7 +70,7 @@ Get Azimuth from [**Almost There Games on itch.io**](https://almost-there-games.
 
 **This project distributes only the Rich Presence companion.** We do not provide Forza Horizon 2, DLCs, game files or license keys. You must obtain your own legitimate game copy and comply with the applicable license terms. Donations support this companion; they do not purchase the game, grant a game license or fund access to game files.
 
-1. Download **FH2-Presence-v1.1.0-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
+1. Download **FH2-Presence-v1.2.0-Windows-x64.zip** from the [latest release](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/latest).
 2. Extract the `rich-presence` folder **next to `azimuth.exe`**.
 3. Open the **Discord desktop app** and sign in.
 4. Run **FH2 Presence.exe** and choose **Start Presence** or **Launch FH2 + Presence**.

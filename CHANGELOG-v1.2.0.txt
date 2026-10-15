@@ -1,0 +1,44 @@
+FH2 DISCORD PRESENCE v1.2.0 — AZIMUTH 0.9.9
+
+WHAT'S NEW
+- Connection checks for Azimuth, Discord, the background service and game data,
+  with actions to launch Azimuth, open Discord or open the installation folder.
+- Optional automatic Presence shutdown three seconds after a detected Azimuth
+  session closes. The control panel stays open; starting Presence stays manual.
+- Independent privacy controls for vehicle/thumbnail, approximate region and
+  race details. Hidden vehicle data is removed from Discord and the preview,
+  and no new vehicle cards are uploaded while the vehicle is hidden.
+- Manual checks for official GitHub releases, matched to the installed Azimuth
+  version only when compatibility is explicitly named. No automatic download
+  or installation and no downgrade recommendation.
+- Preview and save a local TXT diagnostic report containing versions,
+  connection booleans and preferences. Saves, logs, player data, credentials,
+  paths and vehicle/location/race details are excluded. Nothing is sent
+  automatically. Review the report before attaching it to a GitHub issue.
+- New controls and connection messages translated in all nine interface languages.
+
+VALIDATION AND COMPATIBILITY
+New feature tests passed, including privacy filtering, release selection,
+report exclusions, settings persistence and automatic shutdown cleanup.
+The installed build was checked live with FH2 1.0.0.64 and Azimuth 0.9.9:
+game-data/Discord connection, privacy filtering, update checking and report preview.
+Racing features still need fresh validation on Azimuth 0.9.9. Compatibility
+with future versions and the recent Extra Options update is not confirmed.
+Use the legacy v1.0.0 release for Azimuth 0.9.7.
+
+PRIVACY NOTES
+Privacy changes clear the previous Discord activity before filtered data is
+published. Discord image caching and its send interval may delay the display.
+Previously uploaded public, temporary image links cannot be revoked by the app;
+already-started uploads may finish. Automatic thumbnail hosting is off by default.
+
+FREEWARE
+All features and downloads are free. Source code remains private.
+No game, DLC, game files, saves, logs, configurations or license keys are included.
+Optional support does not unlock features or grant a game license.
+
+LINKS
+App page: https://puppetzim.itch.io/fh2-discord-presence
+Downloads: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases
+Issues: https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues
+Optional support: https://ko-fi.com/puppetzim

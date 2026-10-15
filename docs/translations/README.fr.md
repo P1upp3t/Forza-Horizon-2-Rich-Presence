@@ -53,3 +53,14 @@ Arrêtez la présence et fermez l’application avant une mise à jour. Conserve
 Un don ne débloque aucune fonction et ne fournit pas le jeu. Le logiciel est un freeware à code privé. Consultez LICENSE.txt ; les éléments tiers conservent leurs propres droits. Projet indépendant, sans affiliation avec les titulaires de Forza, Discord ou Azimuth.
 
 [LICENSE.txt](../../LICENSE.txt) · [THIRD-PARTY-NOTICES.txt](../../THIRD-PARTY-NOTICES.txt) · [FORZA-ICON-SOURCES.txt](../../FORZA-ICON-SOURCES.txt)
+
+
+## v1.2.0 · Azimuth 0.9.9
+
+- **Diagnostic de connexion** — Données du jeu et Discord connectés.
+- **Arrêter la présence à la fermeture d’Azimuth** — Arrête le service après la fermeture d’une session Azimuth détectée. Le panneau reste ouvert. Désactivé par défaut.
+- **Confidentialité** — Choisissez les informations visibles dans Discord et l’aperçu. Masquer le véhicule bloque les nouveaux envois de ses cartes.
+- **Mises à jour** — Consulte les versions officielles GitHub sur demande. Aucun téléchargement ni installation automatique. La compatibilité doit être déclarée.
+- **Rapport de bug** — Consultez un rapport local des versions, connexions et préférences. Sans sauvegardes, journaux, données du joueur ni informations personnelles. Aucun envoi automatique.
+
+[English release notes](../../CHANGELOG-v1.2.0.txt)
