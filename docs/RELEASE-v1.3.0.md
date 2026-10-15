@@ -17,7 +17,7 @@ Discord updates have a minimum 15-second interval. New paint or wheel pictures d
 
 Download **FH2-Presence-v1.3.0-Windows-x64.zip** below. Stop Presence and choose **Exit app** before updating; closing the window can leave it in the tray. Extract `rich-presence` next to `azimuth.exe`, and keep your existing `config.json` and `runtime` folder.
 
-Requires Windows 11 x64, WebView2 and Discord desktop. Python is not required. You can verify the ZIP with `SHA256SUMS.txt`.
+Requires Windows 11 x64, WebView2 and Discord desktop. Python is not required. 
 
 All features and downloads are free. Source code remains private. No game, DLC, game files, license keys or personal configuration are included. Automatic thumbnail hosting and local history are off by default. If you enable images, car cards use public, temporary Uguu links; existing links cannot be revoked by the app.
 

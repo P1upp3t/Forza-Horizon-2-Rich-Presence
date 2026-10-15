@@ -13,7 +13,7 @@ Discreet mode affects upcoming activity updates; Discord can take a little time 
 
 This companion targets Azimuth 0.9.9 with FH2 1.0.0.64. Racing features still need a fresh check on 0.9.9. Future Azimuth versions and the recent Extra Options update are not confirmed compatible. Use legacy v1.0.0 for Azimuth 0.9.7.
 
-Download **FH2-Presence-v1.4.0-Windows-x64.zip**. Stop Presence and exit the app before updating, then replace the files in rich-presence while keeping config.json and runtime. Start Presence again when you are ready. Verify the download with SHA256SUMS.txt.
+Download **FH2-Presence-v1.4.0-Windows-x64.zip**. Stop Presence and exit the app before updating, then replace the files in rich-presence while keeping config.json and runtime. Start Presence again when you are ready. 
 
 Requires Discord desktop and your own legitimate game installation. Python is not required. All features and downloads are free; support is optional. Source code remains private. No game, DLC, keys, saves or personal configuration are included.
 

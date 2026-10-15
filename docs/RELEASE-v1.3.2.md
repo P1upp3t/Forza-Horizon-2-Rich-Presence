@@ -17,7 +17,7 @@ Discord activity updates have a minimum 15-second interval. New paint or wheel p
 
 Download **FH2-Presence-v1.3.2-Windows-x64.zip** below. You can update directly to this version. Stop Presence and choose **Exit app** before replacing files; closing the window can leave it in the tray. Extract `rich-presence` next to `azimuth.exe`, keeping your existing `config.json` and `runtime` folder.
 
-Requires Windows 11 x64, WebView2 and Discord desktop. Python is not required. Verify the ZIP with `SHA256SUMS.txt`.
+Requires Windows 11 x64, WebView2 and Discord desktop. Python is not required. 
 
 The assisted updater is available from this version onward. It only prepares a newer release that explicitly supports your installed Azimuth version. Installing or returning to a previous version stops Presence and restarts the panel; start Presence again when you're ready. Rollback becomes available after an assisted installation.
 
