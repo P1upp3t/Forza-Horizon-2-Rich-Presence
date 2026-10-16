@@ -16,7 +16,7 @@ The companion uses the thumbnail saved by the game. After changing the car, try 
 For a manual update, stop Presence and choose Exit app; closing the window can leave it in the tray. Replace the app files while keeping config.json and runtime. An assisted update verifies the official download and keeps a local backup. Rollback becomes available after an assisted installation and preserves your current preferences. Start Presence again when you are ready.
 
 ## Which Azimuth release should I use?
-The current companion supports Azimuth 0.9.9 with FH2 1.0.0.64. Azimuth 0.9.7 uses legacy companion v1.0.0. Racing support on 0.9.9 still needs a fresh check; future Azimuth builds and the recent Extra Options update are not confirmed compatible. A compatibility warning means the installed Azimuth version is unconfirmed or could not be identified; it does not prove that the game is broken.
+FH2 Discord Presence v1.4.0 also works with Azimuth 0.9.10, confirmed in the maintainer’s playtest on 16 October 2026. Keep using the current download; no companion update is required for this Azimuth hotfix. The current companion also supports Azimuth 0.9.9 with FH2 1.0.0.64. Azimuth 0.9.7 uses legacy companion v1.0.0. Racing support on 0.9.9 still needs a fresh check; Azimuth builds after 0.9.10 and the recent Extra Options update are not confirmed compatible. A compatibility warning means the installed Azimuth version is unconfirmed or could not be identified; it does not prove that the game is broken.
 
 ## Does the app start or update automatically?
 Starting Presence remains manual. Assisted downloads and installation require your choice. You can optionally stop Presence after Azimuth closes and enable Windows connection notices.

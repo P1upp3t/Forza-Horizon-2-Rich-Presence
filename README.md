@@ -24,7 +24,7 @@ Screenshots and version-by-version changes are in [Releases](https://github.com/
 
 Requires **Discord desktop** and your own legitimate game installation. Python is not required. [Get Azimuth](https://almost-there-games.itch.io/azimuth).
 
-1. Choose the download for your Azimuth version: [current release for 0.9.9](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.0/FH2-Presence-v1.4.0-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
+1. Choose the download for your Azimuth version: [current release for 0.9.9 / 0.9.10](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.0/FH2-Presence-v1.4.0-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
 2. Extract `rich-presence` next to `azimuth.exe`.
 3. Open Discord, run `FH2 Presence.exe` and choose **Start Presence** or **Launch FH2 + Presence**.
 4. Enable **Automatic Thumbnails** in Preferences if you want custom vehicle cards.
@@ -35,7 +35,7 @@ For a manual update, stop Presence and choose **Exit app** before replacing file
 
 ## Compatibility & privacy
 
-The current release supports **Azimuth 0.9.9 / FH2 1.0.0.64**. Racing support on 0.9.9 still needs a fresh check; future Azimuth versions and the recent Extra Options update are not confirmed compatible.
+FH2 Discord Presence v1.4.0 also works with Azimuth 0.9.10, confirmed in the maintainer’s playtest on 16 October 2026. Keep using the current download; no companion update is required for this Azimuth hotfix. Support for Azimuth 0.9.9 / FH2 1.0.0.64 remains available. Versions after 0.9.10 and the recent Extra Options update are not confirmed compatible.
 
 - Discord sends have a minimum 15-second interval. New paint and wheel pictures depend on a thumbnail saved by the game; reselecting the car can help. Hosting and Discord caching may add delay.
 - The companion does not modify game memory or saves. Saves, logs and the player database are not uploaded; no Discord password or token is requested.
