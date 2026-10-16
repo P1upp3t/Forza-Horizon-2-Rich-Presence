@@ -1,0 +1,10 @@
+NEW IN v1.4.1
+
+- Old Discord activity is cleared after 15 seconds without valid game data.
+- Presence resumes when game data returns.
+- Discord reconnection uses spaced retries and detects restarts even when activity stays unchanged.
+- Connection help shows one relevant next step at a time.
+- Azimuth 0.9.10 is recognized alongside 0.9.9.
+- Startup errors explain the failure and offer the local report folder.
+
+Stop Presence and choose Exit app before updating. Keep config.json and runtime.

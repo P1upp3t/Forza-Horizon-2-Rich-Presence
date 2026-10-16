@@ -37,3 +37,6 @@ The desktop app keeps separate local window positions and sizes for full and com
 Include your companion, game and Azimuth versions, what happened and what you expected. You can preview and save a local TXT bug report in Preferences. Review it before attaching it to a GitHub issue; nothing is sent automatically.
 
 [Downloads and release notes](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases) · [Report an issue](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/issues) · [App page](https://puppetzim.itch.io/fh2-discord-presence)
+
+## What happens if the game data or Discord connection is interrupted?
+In v1.4.1, old activity is cleared after 15 seconds without valid game data. Brief losses are tolerated and activity resumes when data returns. While Presence is running, Discord reconnects with spaced retries, including after restarts when your activity has not changed. The panel shows one relevant connection step at a time.
