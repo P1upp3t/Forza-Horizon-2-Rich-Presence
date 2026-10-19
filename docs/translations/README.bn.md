@@ -1,6 +1,6 @@
 <p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="128" /></p>
 
-<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.1/FH2-Presence-v1.4.1-Windows-x64.zip">v1.4.1</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.2/FH2-Presence-v1.4.2-Windows-x64.zip">v1.4.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 রক্ষণাবেক্ষণকারী ১৬ অক্টোবর ২০২৬-এ নিশ্চিত করেছেন যে v1.4.0 Azimuth 0.9.10-এর সঙ্গেও কাজ করে। বর্তমান ডাউনলোড ব্যবহার করুন; এই Azimuth হটফিক্সের জন্য companion আপডেট প্রয়োজন নেই।

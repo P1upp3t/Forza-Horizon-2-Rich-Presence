@@ -1,4 +1,4 @@
-FH2 DISCORD PRESENCE v1.4.1
+FH2 DISCORD PRESENCE v1.4.2
 
 A free companion for Forza Horizon 2 running through Azimuth.
 Requires Discord desktop and your own legitimate game installation.

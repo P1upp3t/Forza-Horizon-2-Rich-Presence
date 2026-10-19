@@ -1,6 +1,6 @@
 <p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="128" /></p>
 
-<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.1/FH2-Presence-v1.4.1-Windows-x64.zip">v1.4.1</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.2/FH2-Presence-v1.4.2-Windows-x64.zip">v1.4.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 维护者于 2026 年 10 月 16 日确认：v1.4.0 也可用于 Azimuth 0.9.10。继续使用当前下载即可，无需为此 Azimuth 热修复更新本应用。

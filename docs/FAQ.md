@@ -40,3 +40,6 @@ Include your companion, game and Azimuth versions, what happened and what you ex
 
 ## What happens if the game data or Discord connection is interrupted?
 In v1.4.1, old activity is cleared after 15 seconds without valid game data. Brief losses are tolerated and activity resumes when data returns. While Presence is running, Discord reconnects with spaced retries, including after restarts when your activity has not changed. The panel shows one relevant connection step at a time.
+
+## Does the vehicle card include upgrades in class and PI?
+From v1.4.2, Presence reads the active car's current class and PI, including installed upgrades. If the reading cannot be validated, it leaves those values unavailable rather than substituting factory figures. Car pictures still depend on saved thumbnails and image caching.

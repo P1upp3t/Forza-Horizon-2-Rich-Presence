@@ -24,7 +24,7 @@ Screenshots and version-by-version changes are in [Releases](https://github.com/
 
 Requires **Discord desktop** and your own legitimate game installation. Python is not required. [Get Azimuth](https://almost-there-games.itch.io/azimuth).
 
-1. Choose the download for your Azimuth version: [current release for 0.9.9 / 0.9.10](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.1/FH2-Presence-v1.4.1-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
+1. Choose the download for your Azimuth version: [current release for 0.9.9 / 0.9.10](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.2/FH2-Presence-v1.4.2-Windows-x64.zip), or [legacy v1.0.0 for 0.9.7](https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip).
 2. Extract `rich-presence` next to `azimuth.exe`.
 3. Open Discord, run `FH2 Presence.exe` and choose **Start Presence** or **Launch FH2 + Presence**.
 4. Enable **Automatic Thumbnails** in Preferences if you want custom vehicle cards.

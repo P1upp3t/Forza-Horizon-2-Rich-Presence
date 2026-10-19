@@ -1,6 +1,6 @@
 <p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="128" /></p>
 
-<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.1/FH2-Presence-v1.4.1-Windows-x64.zip">v1.4.1</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.2/FH2-Presence-v1.4.2-Windows-x64.zip">v1.4.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
 A v1.4.0 também funciona com o Azimuth 0.9.10, conforme teste do mantenedor em 16/10/2026. Continue usando o download atual; este hotfix do Azimuth não exige atualizar o companion.
