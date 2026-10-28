@@ -1,9 +1,9 @@
 <p align="center"><img src="../FH2-Presence.png" alt="FH2 Discord Presence" width="128" /></p>
 
-<p align="center"><b>Azimuth 0.9.9 / 0.9.10:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.2/FH2-Presence-v1.4.2-Windows-x64.zip">v1.4.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
+<p align="center"><b>Azimuth 0.9.9 / 0.9.10 / 1.0.3:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.4.2/FH2-Presence-v1.4.2-Windows-x64.zip">v1.4.2</a> · <b>Azimuth 0.9.7:</b> <a href="https://github.com/P1upp3t/Forza-Horizon-2-Rich-Presence/releases/download/v1.0.0/FH2-Presence-v1.0.0-Windows-x64.zip">v1.0.0</a></p>
 
 
-রক্ষণাবেক্ষণকারী ১৬ অক্টোবর ২০২৬-এ নিশ্চিত করেছেন যে v1.4.0 Azimuth 0.9.10-এর সঙ্গেও কাজ করে। বর্তমান ডাউনলোড ব্যবহার করুন; এই Azimuth হটফিক্সের জন্য companion আপডেট প্রয়োজন নেই।
+রক্ষণাবেক্ষণকারী ২৮ অক্টোবর ২০২৬-এ নিশ্চিত করেছেন যে v1.4.2 Azimuth 1.0.3-এর সঙ্গে কাজ করে। বর্তমান ডাউনলোড ব্যবহার করুন; companion আপডেটের প্রয়োজন নেই। অভ্যন্তরীণ সংস্করণ তালিকা পুরোনো হওয়ায় প্যানেল এখনো অনিশ্চিত সংস্করণের সতর্কতা দেখাতে পারে।
 
 <p align="center"><a href="../../README.md">English</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ar.md">العربية</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a></p>
 
